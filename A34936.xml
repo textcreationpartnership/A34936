@@ -1,0 +1,1164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Decimarum &amp; oblationum tabula, a tything table, or, Table of tithes and oblations according to the ecclesiastical laws and ordinances established in the Church of England, now newly reduced into a book : containing as well the very letter of the law under which these rights be severally comprised ... : as also a brief and summarie declaration of composition, transaction, ... : annexed hereunto summarily, such statute lawes of the land concerning these rights, as have been herein authorised ... / compiled by W.C. ...</title>
+            <author>Crashaw, William, 1572-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34936</idno>
+            <idno type="STC">Wing C6843</idno>
+            <idno type="STC">ESTC R39608</idno>
+            <idno type="EEBO-CITATION">18450813</idno>
+            <idno type="OCLC">ocm 18450813</idno>
+            <idno type="VID">107691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1631:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Decimarum &amp; oblationum tabula, a tything table, or, Table of tithes and oblations according to the ecclesiastical laws and ordinances established in the Church of England, now newly reduced into a book : containing as well the very letter of the law under which these rights be severally comprised ... : as also a brief and summarie declaration of composition, transaction, ... : annexed hereunto summarily, such statute lawes of the land concerning these rights, as have been herein authorised ... / compiled by W.C. ...</title>
+                  <author>Crashaw, William, 1572-1626.</author>
+                  <author>Clark, William, bachelor of civil law.</author>
+               </titleStmt>
+               <extent>[8], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.T. for Andrew Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also attributed to William Clark--Halkett &amp; Laing.</note>
+                  <note>Imperfect: cropped and stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Finance.</term>
+               <term>Tithes --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107691:1"/>
+            <pb facs="tcp:107691:1" rendition="simple:additions"/>
+            <p>
+               <hi>Decimarum &amp; Oblationum Tabula.</hi> A Tything Table. OR Table of <hi>Tithes</hi> and <hi>Oblations,</hi> according to the Eccleſi<g ref="char:EOLhyphen"/>aſtical Laws and Ordinances eſtabliſhed in the Church of <hi>ENGLAND,</hi> Now newly reduced into a Book. Containing As well the very letter of the Law under which theſe rights be ſe<g ref="char:EOLhyphen"/>verally compriſed, together with ſuch queſtions of tything, and their reſolutions by the Lawes Canon, Civil, and approved Doctors opinions of the ſame, as be ordinarily moved, and which doe often prove to controverſies herein. <hi>As alſo</hi> A brief and ſummarie declaration of <hi>Compoſition, Tranſaction, Cu<g ref="char:EOLhyphen"/>ſtom, Preſcription, Priviledge,</hi> And how they prevail in Tything. <hi>Annexed hereunto</hi> Summarily, ſuch Statute Lawes of the Land concerning theſe rights, as have been herein authoriſed, and now doe remain in their force accordingly. To the eaſie and plain inſtructions of all the ſubjects Eccleſiaſtical or Lay, whether in theſe rights to demand them, or bounden to perform the ſame. Compiled by <hi>W. C.</hi> Bach. of the Civil Law.</p>
+            <q>
+               <bibl>Eccl. 25.</bibl> Hallow thy Tythes unto God with gladneſs.</q>
+            <q>
+               <bibl>Prov. 3.</bibl> So ſhall thy Barnes be filled with plenteouſneſs, and thy preſſes flow over with ſweet Wine.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. T.</hi> for <hi>Andrew Crook</hi> at the <hi>Green-dragon</hi> in Saint <hi>Pauls</hi> Church-yard. 1658.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:107691:2"/>
+            <pb facs="tcp:107691:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Canon and Civil Lawes</hi> (Chriſtian Rea<g ref="char:EOLhyphen"/>der) ſince firſt King <hi>Henry</hi> of happy memory the Eighth, diſmembred their bo<g ref="char:EOLhyphen"/>dies, <note n="a" place="margin">25 He. 8. 19.</note> and reſtored to the Diadem of the Land (over the ſtate Eccleſiaſtical) the Ancient Iuriſdiction of the Crown, they have and do lye hidden, ſuch of them as King <hi>Henry</hi> then continued, and King <hi>Edward</hi> 
+               <note n="b" place="margin">2. Ed, 6. 13.</note> that ſucceeded him, Intituled in his raign the Kings, and afterwards were the late Queenes deceaſed, and as they be now tearmed, <hi>The Kings Eccleſiaſtical Lawes,</hi> (the former ſtatutes revi<g ref="char:EOLhyphen"/>ved by Her Majeſty, <note n="c" place="margin">1. Elizab. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> in the firſt year of her Raign) they have theſe Lawes, and do lie hidden in manifold, dark, and dangerous corners, in practiſe onely familiar in Conſistories, and their knowledge to the Countries ob<g ref="char:EOLhyphen"/>ſcure: hence are the manifold untimely Cuſtoms and Preſcri<g ref="char:EOLhyphen"/>ptions that wee have: I inveigh not againſt them, neither cuſtome or preſcription, that be perfect now and in their perfect being, I would not be taken, or rather miſtaken ſo: but they be weeds in their growing and all their ingendring
+<pb facs="tcp:107691:3"/> time, wherein (onely) they give place to prevention: they be Lawes of themſelves (in their ripeneſs) inviolable.<note n="d" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Glo. &amp; D D <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n c. vigilanti <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le praeſcrip.</note> If therfore ſome inſight into theſe lawes, and knowledge ſuc<g ref="char:EOLhyphen"/>ceeding this long obſcurity, may work another effect in the time to come, none can ſay uprightly now that he is, may be, or his poſterity after him (if not benefited) dam<g ref="char:EOLhyphen"/>nified thereby: happily I may be charged (in tranſlating) to have damnified the lawes, I have ſhadowed (I con<g ref="char:EOLhyphen"/>feſſe) their firſt and original grace, ſuch beauty have they and Elegancy too, in the latine tongue: but I write to Engliſh-man; and ſuch as not ſo much affect to hear of the beauty, as they be deſirous to underſtand the benefit of their lawes, for ſuch I have framed this <hi>Tything Table,</hi> and repleniſhed (as my ſlender skill would ſerve) the ſame, with neceſſary, diſperſed, and ſcattered lawes, not hurtful, conſidered as they be delivered, nor prejudicial to the Royal prerogative, nor repugnant to the lawes, Statutes, nor Cu<g ref="char:EOLhyphen"/>ſtomes of this land. Tythes (by ſale) be turned into chattels <note n="e" place="margin">Art. cler. 9. Ed. 2. 1.</note>, and made of ſpiritual, temporal things: in de<g ref="char:EOLhyphen"/>bate (of the right of patronage) in Tythes, and exceed<g ref="char:EOLhyphen"/>ing the fourth part of the value of the Church <note n="f" place="margin">9. Ed. 2. 2. 34. Ed. 1. 1. de conjunctim <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eoſatis.</note>, where great wood is demanded in the name of <hi>Silva Caedua</hi> 
+               <note n="g" place="margin">45 Ed. 3. 3.</note>, in Tythes and Oblations, where there is any ſtate of inheri<g ref="char:EOLhyphen"/>tance <note n="h" place="margin">3. Hen 8. 7.</note>, and where they be demanded, and be neither due nor accuſtomed, <note n="i" place="margin">13 Ed. 1. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire. agat.</note> the Kings prohibition doth lie in all theſe caſes and no conſultation: otherwiſe, and without ſuch temporal mixtures, prohibition hath no place <note n="k" place="margin">Fitz deno. turab revium Fol. 50. de conſultati<g ref="char:EOLhyphen"/>one.</note>: but the Judge Eccleſiaſtical hath power to proceed, notwithſtanding the Kings prohibition <note n="l" place="margin">9. Ed. 2. cir<g ref="char:EOLhyphen"/>cumſpecte a<g ref="char:EOLhyphen"/>gatis. 13. Ed. 1.</note>. Conceiving them therefore (<hi>Chri<g ref="char:EOLhyphen"/>ſtian Reader</hi>) as they be meant, and mentioned to be pre<g ref="char:EOLhyphen"/>ſented unto thee, <hi>viz.</hi> As they be meerely ſpiritual Tithes and Oblations, and without any temporal mixture, thou ſhalt not miſconstrue the Author, nor deceive thy ſelf. Farewel.</p>
+            <closer>
+               <signed>The Readers (ever) in the LORD. W. C.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:107691:3"/>
+            <head>Theſe Books following are printed and ſold by <hi>Andrew Crook</hi> at the <hi>Green-dragon</hi> in St <hi>Pauls</hi> Church-yard.</head>
+            <list>
+               <head>In Folio.</head>
+               <item>A large and compleat concordance to the Bible, by <hi>Samuel Newman.</hi>
+               </item>
+               <item>The Bible of a large Engliſh or black letter, uſed in Churches.</item>
+               <item>The Bible of a fair <hi>London</hi> Print.</item>
+               <item>The Bible in <hi>Welch.</hi>
+               </item>
+               <item>
+                  <hi>Leviathan,</hi> or the Matter, Form, and power of a commonwealth Ee<g ref="char:EOLhyphen"/>cleſiaſtical and civil, by <hi>Thomas Hobbs.</hi>
+               </item>
+               <item>
+                  <hi>Ben: Johnſons</hi> Works in two Volumes.</item>
+               <item>The Hiſtory of <hi>Don Quixot.</hi>
+               </item>
+               <item>Doctor <hi>Kellet</hi> of the Sacrament of our Lords Supper.</item>
+               <item>All <hi>Homers</hi> Works tranſlated by <hi>George Chapman.</hi>
+               </item>
+               <item>
+                  <hi>Orlando Furioſo,</hi> by Sir <hi>John Harrington.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In quarto.</head>
+               <item>
+                  <hi>Thomae Thomatii Dictionarium.</hi>
+               </item>
+               <item>Doctor <hi>Gauden</hi> his Defence by way of Apology for the Miniſtry and Miniſters of the Church of <hi>England.</hi>
+                  <list>
+                     <item>his three Sermons upon ſeveral occaſions.</item>
+                     <item>his Caſe of Miniſters maintenance by Tithes.</item>
+                  </list>
+               </item>
+               <item>The Fables of <hi>Eſop</hi> paraphraſed in Verſe, and adorned with Sculp<g ref="char:EOLhyphen"/>ture by <hi>John Ogilby.</hi>
+               </item>
+               <item>Mr <hi>Joſeph Caril</hi> his Expoſition on <hi>Job.</hi>
+               </item>
+               <item>Mr <hi>Rutherford</hi> his <hi>Chriſt</hi> dying, on <hi>John 12. verſ. 27, 28, 29, &amp;c.</hi>
+                  <list>
+                     <item>his Survey of the Spiritual <hi>Antichriſt,</hi> diſcovering the Se<g ref="char:EOLhyphen"/>crets of Familiſm and Antinomianiſm.</item>
+                     <item>his free Diſputation concerning pretended Liberty of Conſcience.</item>
+                     <item>
+                        <hi>De providentia Dei.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Doctor <hi>Lightſoot</hi> his harmony on the four Evangeliſts.
+<list>
+                     <item>his commentary on the <hi>Acts</hi> of the <hi>Apoſtles.</hi>
+                     </item>
+                     <item>his deſcription of the Temple.</item>
+                     <item>his deſcription of the Service of the temple.</item>
+                  </list>
+               </item>
+               <item>Ten godly and fruitful Sermons by <hi>John Gore</hi> late Miniſter at St <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> in <hi>Cornhil.</hi>
+               </item>
+               <item>Doctor <hi>Day</hi> his Treatiſe of the Reſurrection, 1 <hi>Cor. 15, 16. Barton</hi> of Bowing at the name of <hi>Jeſus.</hi>
+               </item>
+               <item>A plain Expoſition on the ten commandements by <hi>J. Dod.</hi>
+               </item>
+               <item>The Church of <hi>England</hi> a true Church, by <hi>John Baſtwick.</hi> D. D.</item>
+               <pb facs="tcp:107691:4"/>
+               <item>Mr <hi>Thomas Shepheard</hi> of <hi>New-England</hi> his Treatiſe of Lyturgies, power of the Keys, and of the Catholick Viſible Church, in anſwer to Mr <hi>John Ball.</hi>
+               </item>
+               <item>Doctor <hi>Twiſſe</hi> of Predeſtination in anſwer to Mr <hi>Cotton.</hi>
+               </item>
+               <item>The <hi>Swediſh</hi> Intelligencer containing the principal paſſages and Actions done in the beſt parts of <hi>Chriſtendom.</hi>
+               </item>
+               <item>
+                  <hi>Virgil</hi> tranſlated gramatically by <hi>John Brinſley.</hi>
+               </item>
+               <item>A Philoſophical and Chymical Treatiſe of Fier and Salt.</item>
+               <item>
+                  <hi>Clement</hi> (the bleſſed <hi>Pauls</hi> fellow-laborer in the Goſpel) his Epi<g ref="char:EOLhyphen"/>ſtle to the <hi>Corinthians.</hi>
+               </item>
+               <item>Confeſſion ſin,</item>
+               <item>Doctor <hi>Flood</hi> his anſwer to <hi>Foſter</hi> concerning the Weapon-Salve.</item>
+               <item>The Proteſtants Kallendar.</item>
+               <item>The Myſteries of Art and Nature, in four Parts, the firſt of Water<g ref="char:EOLhyphen"/>works, the ſecond of fire-works, the third of Drawing, Colouring, Limming, Painting, Engraving and Etching, the fourth of ſundry Experiments by <hi>John Bate.</hi>
+               </item>
+               <item>
+                  <hi>Johannis Buridani in Ariſt Polit.</hi>
+               </item>
+               <item>
+                  <hi>William Lithgow</hi> his Travels.</item>
+               <item>A Sermon preached at <hi>Newport</hi> in the Iſle of <hi>Weight, October,</hi> 1648. in the time of the Treaty on <hi>Gal. 5. v.</hi> 22. 23. by <hi>Robert Sander<g ref="char:EOLhyphen"/>ſon</hi> Doctor in Divinity, and Chaplayn to the late King.</item>
+            </list>
+            <list>
+               <head>In Octavo.</head>
+               <item>
+                  <hi>Virgil</hi> tranſlated by <hi>John Ogilby.</hi>
+               </item>
+               <item>
+                  <hi>Shepheard</hi> his ſound Believer.</item>
+               <item>Biſhop <hi>Hall</hi> his Contemplations on the old Teſtament.</item>
+               <item>—Chriſtian Moderation.</item>
+               <item>—Honour of the Married Clergy.</item>
+               <item>—his Treatiſe of the old Religion.</item>
+               <item>—Remedy againſt Profaneſs.</item>
+               <item>
+                  <hi>Grotii Poemata.</hi>
+               </item>
+               <item>
+                  <hi>Rivii Hiſtoria Navalis,</hi>
+               </item>
+               <item>
+                  <hi>Fletcher</hi> of Urins.</item>
+               <item>Doctor <hi>Brown</hi> his <hi>Religio Medici.</hi>
+               </item>
+               <item>Mr <hi>Bridges</hi> Catechiſm on the Sacrament.</item>
+               <item>The ages of Mans life, with the Original, cauſes, progreſs, and end thereof learnedly diſcuſſed.</item>
+               <item>An hermetical banquet dreſt by a Spagerical Cook, for the better preſervation of the Microcoſm.</item>
+               <item>Biſhop <hi>Corbet</hi> his Poems compleat with Additions.</item>
+               <item>The buddings of old Truth, or practical points of divinity gathered
+<pb facs="tcp:107691:4"/> out of St. <hi>John,</hi> chap. 3. <hi>verſ.</hi> 22. by <hi>Alexander Groſſe.</hi>
+               </item>
+               <item>
+                  <hi>Sententiae Puerilis</hi> Tranſlated by Mr. <hi>Brinſley.</hi>
+               </item>
+               <item>
+                  <hi>Enchiridion duplex, Oratorium nempe &amp; Poeticum, hoc ab Alexandro Rof<g ref="char:EOLhyphen"/>ſaeo illud a Theodorico Morello concinnatum; ſed ab eodem Roſſaeo, re<g ref="char:EOLhyphen"/>cognitum &amp; auctum ad verborum copiam &amp; elegantiam Phraſium La<g ref="char:EOLhyphen"/>tini Sermonis comparandam in utraque facultate haud infrugiferum.</hi>
+               </item>
+               <item>The Silver Watch-bell.</item>
+               <item>
+                  <hi>Georgii Ritchel Contemplationes Metaphyſica.</hi>
+               </item>
+               <item>The charter of <hi>Rumney-Marſh.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In duodecimo.</head>
+               <item>Sir <hi>Henry Blunt</hi> his voyage into the <hi>Levant,</hi> being a Relation of a Journey lately performed from <hi>England</hi> by the way of <hi>Venice,</hi> into <hi>Dalmatia, Slavonia, Boſna, Hungaria, Macedonia, Theſſaly, Thrace, Rhodes,</hi> and <hi>Egypt,</hi> unto <hi>Grand Cairo:</hi> with particular Obſervati<g ref="char:EOLhyphen"/>ons of the Modern condition of the <hi>Turks,</hi> and other people un<g ref="char:EOLhyphen"/>der that Empire.</item>
+               <item>A Help to diſcourſe, conſiſting of Witty, Philoſophical, Gramma<g ref="char:EOLhyphen"/>tical, Phyſical, Aſtronomical Queſtions and anſwers; as alſo Epigrams, Epitaphs, Riddles, Jeſts, Love-toys: together with the countrey mans counſellor, and neceſſary rules for health.</item>
+               <item>Mr <hi>Rouſe</hi> his Art of Happineſs.</item>
+               <item>
+                  <hi>Greenwood</hi> his Works.</item>
+               <item>An excellent Treatiſe of the Intereſt of the Princes and States of <hi>Chriſtendom.</hi>
+               </item>
+               <item>
+                  <hi>Ovids Metamorphoſis</hi> tranſlated by Mr <hi>George Sands.</hi>
+               </item>
+               <item>A Path-way to Piety, containing,
+<list>
+                     <item>1. <hi>Chriſts</hi> prayer expounded.</item>
+                     <item>2 A communicant inſtructed.</item>
+                     <item>3. A direction to live well.</item>
+                     <item>4. A Direction to die well.</item>
+                  </list>
+               </item>
+               <item>Doctor <hi>Swadlin</hi> his Manual of Devotions, ſuiting each day with Prayers and Meditations ſuitable to the works of the day, as alſo each mans calling, the Noble-man, the Souldier, the Lawyer, the Tradeſman, the ſick man, the dying man.</item>
+               <item>Abrief of the Bibles Hiſtory.</item>
+               <item>The <hi>Engliſh</hi> Dictionary, or an Interpreter of hard <hi>Engliſh</hi> words, enabling as well Ladies and Gentlewomen, young Scholars, Clearks, Merchants, as alſo ſtrangers of any Nation to the un<g ref="char:EOLhyphen"/>derſtanding of the moſt difficult Authors in our Language, and the more ſpeedy attaining of the <hi>Engliſh</hi> Tongue, both in reading, ſpeaking and writing.</item>
+               <pb facs="tcp:107691:5"/>
+               <item>The Poor mans Reſt, founded upon Motives, Meditations, and Prayers, expreſſing the inward means of true conſolation.</item>
+               <item>The Mothers Bleſſing, or the godly counſels of a Gentle woman not long ſince deceaſed, left behind her for her children, containing many good exhortations &amp; good Admonitions, profitable for all Parents to leave as a Legacy to their children, by Mrs <hi>Dorothy Leigh.</hi>
+               </item>
+               <item>Several Treatiſes of Mr <hi>Perkins,</hi>
+                  <list>
+                     <item>1. How to live, and that well.</item>
+                     <item>2. The right way of dying well.</item>
+                     <item>3. The government of the Tongue.</item>
+                     <item>4. A Grain of Muſtard-ſeed.</item>
+                     <item>5. The right knowledge of <hi>Chriſt</hi> crucified.</item>
+                     <item>6. The Nature and practice of Repentance.</item>
+                     <item>7. The Combate betwixt the Fleſh and Spirit.</item>
+                  </list>
+               </item>
+               <item>A Garmmar in <hi>French</hi> and <hi>Engliſh,</hi> being neceſſary Rules for a Frenchman to learn Engliſh, by <hi>George Maſon</hi> Marchant.</item>
+               <item>Four plays in <hi>Latin, viz.</hi>
+                  <list>
+                     <item>
+                        <hi>Loiola.</hi>
+                     </item>
+                     <item>
+                        <hi>Stoicus Vapulans.</hi>
+                     </item>
+                     <item>
+                        <hi>Cancer.</hi>
+                     </item>
+                     <item>
+                        <hi>Paria.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Two Plays by <hi>Thomas Kellegrew, viz:</hi>
+                  <list>
+                     <item>The Priſoners.</item>
+                     <item>
+                        <hi>Claracilla.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lots</hi> Little-one.</item>
+               <item>A warlike Treatiſe of the Pike.</item>
+               <item>A Manual of Prayers.</item>
+            </list>
+            <list>
+               <head>In 24.</head>
+               <item>
+                  <hi>Latin</hi> Teſtament.</item>
+               <item>
+                  <hi>Engliſh</hi> Teſtament.</item>
+               <item>The third part of the Bible.</item>
+            </list>
+            <list>
+               <head>Plays.</head>
+               <item>Queen <hi>Elizabeth,</hi> firſt and ſecond Part.</item>
+               <item>The honeſt whore, firſt and ſecond Part.</item>
+               <item>The Fleir.</item>
+               <item>The Opportunity.</item>
+               <item>The ſwaggering Damſel.</item>
+               <item>
+                  <hi>Lilly</hi> his Comedies.</item>
+               <item>The Tragedy of <hi>Hoffman.</hi>
+               </item>
+               <item>
+                  <hi>Philis</hi> of <hi>Sciros.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="legal_text">
+            <pb n="1" facs="tcp:107691:5"/>
+            <head>A brief Collection of the Letter and terms of the Law, with their ſeveral Expoſitions in En<g ref="char:EOLhyphen"/>gliſh: and of all ſuch questions of Tything which be mentioned and contained within the body of this Table, whereby every Tythable thing and queſtion that is moved and anſwered of the ſame is readily found.</head>
+            <div type="list_of_questions">
+               <div n="1" type="question">
+                  <head>The Firſt Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Frugibus, i.</hi> Of Harveſt fruits, ſown, mown, reaped, gathered, bound or looſe, in Heap, ſhock or ſheaf.</item>
+                     </list>
+                  </p>
+                  <p>1 When they be tithable, and ſuch other praedial Tithes, whether it be lawful to the owner to diſpoſe any manner of way of any part of the fruits before diviſion be made, and the Tenth part be ſevered from the Nine parts?</p>
+                  <p>2 If a ſtranger ſhall preſcribe tithes in another pariſh, and there ſhall happen afterwards barren and waſt grounds to be tilled, whether the ſtranger that pre<g ref="char:EOLhyphen"/>ſcribeth, or the Church where the grounds doe lie, ſhall reap the Tithes?</p>
+                  <p>3 If one ſhall have right of tithe in a wood, and that
+<pb n="2" facs="tcp:107691:6"/> wood become afterwards arable ground, whether his right continueth in the Corn?</p>
+               </div>
+               <div n="2" type="question">
+                  <head>The Second Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Silvis caeduis,</hi> i. Of woods felled, &amp; pre<g ref="char:EOLhyphen"/>ſerved to grow again.</item>
+                        <item>Decima De <hi>Lignis,</hi> i. Of wood not in uſe, nor apt for Timber, but for firing.</item>
+                        <item>Decima De <hi>Thenitiis agrorum,</hi> i. Of trees planted for fencing of grounds, in fields, pa<g ref="char:EOLhyphen"/>ſtures, and hedge-rowes.</item>
+                        <item>Decima De <hi>Turvis, i.</hi> Of Turves growing in feniſh &amp; mooriſh ſoils, as in the Iſle of <hi>Ely.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>1 Wood of 20. years growth and upwards, whether it be tithable or not? And what of lopping of timber trees?</p>
+                  <p>2 When woods be felled and ſold, who ſhall anſwer the tithe? the buyer, or the ſeller?</p>
+                  <p>3 If the inheritance of a wood be ſold, that is in arre<g ref="char:EOLhyphen"/>rages for tithe, whom the Parſon may implead?</p>
+                  <p>4 Turves, amongſt what tythes they be reckoned?</p>
+               </div>
+               <div n="3" type="question">
+                  <head>The Third Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Paſturis,</hi> i. Of paſture grounds.</item>
+                     </list>
+                  </p>
+                  <p>1 If they be fed, how the tithe ſhall be anſwered?</p>
+               </div>
+               <div n="4" type="question">
+                  <head>The Fourth Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Fenis,</hi> i. Of Hay.</item>
+                     </list>
+                  </p>
+                  <pb n="3" facs="tcp:107691:6"/>
+                  <p>1 Hay, of what places? and what Tithe it is?</p>
+               </div>
+               <div n="5" type="question">
+                  <head>The Fifth Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Lama,</hi> i. Of Wool.</item>
+                     </list>
+                  </p>
+                  <p>1 Whether the ſheep of Sons and Daughters be titha<g ref="char:EOLhyphen"/>ble (or not) with their fathers flocks wherein they do goe?</p>
+                  <p>2 Where ſheep be removed from one pariſh to ano<g ref="char:EOLhyphen"/>ther, how the Tithe is divided by rate and proporti<g ref="char:EOLhyphen"/>on of time?</p>
+                  <p>3 If ſtrange ſheep be brought to another pariſh and there be clipped or ſhorn, how they be tithable there?</p>
+               </div>
+               <div n="6" type="question">
+                  <head>The Sixth Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima de <hi>Agnis,</hi> i. Of Lambs.</item>
+                        <item>Decima de <hi>Vitulis,</hi> i. Of Calves.</item>
+                        <item>Decima de <hi>Procellis,</hi> i. Of Pigges.</item>
+                        <item>Decima de <hi>Pullis,</hi> i. Of Colts.</item>
+                     </list>
+                  </p>
+                  <p>1 Whether the perſon may expect his Lamb (the next year following) if the pariſhioners number in any one year amounteth not to ten? And what, if he fail<g ref="char:EOLhyphen"/>eth then?</p>
+                  <p>2 When ewes be removed, and other ſuch cattel and beaſts from one pariſh to another, how the ſeveral <hi>Churches</hi> be intereſted in the Tithe of their Lambs, and ſuch other increaſe.</p>
+                  <p>3 Of Lamb, calf, Kid, colt, pigge, &amp;c. and when is their Tythable time?</p>
+               </div>
+               <div n="7" type="question">
+                  <pb n="4" facs="tcp:107691:7"/>
+                  <head>The Seventh Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Lacte,</hi> i. Of Milk.</item>
+                        <item>Decima De <hi>Caſeo,</hi> i. Of Cheeſe.</item>
+                     </list>
+                  </p>
+                  <p>1 Milk and Cheeſe how? and when they be tithable?</p>
+                  <p>2 If Cattel feed in one pariſh and couch in another, how the profits be tithed?</p>
+                  <p>3 Where Cheeſe is tithable, and the number of Cat<g ref="char:EOLhyphen"/>tel ſo ſmall that none can be made; how the tithe ſhall be anſwered for their ſmall proportion?</p>
+                  <p>4 Where Milk of ſheep is tithed in kind, how they be tithable (for their paſture) in the Winter, when they doe yeeld no ſuch profit?</p>
+               </div>
+               <div n="8" type="question">
+                  <head>The Eighth Question.</head>
+                  <p>
+                     <list>
+                        <item>Decima de <hi>Fructibus arborum,</hi> i. Of Fruits of Trees.</item>
+                     </list>
+                  </p>
+                  <p>1 Of apples and other ſuch fruits of trees, what of their tithable time?</p>
+               </div>
+               <div n="9" type="question">
+                  <head>The Ninth Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Seminibus,</hi> i. Of ſeeds: Hemp, Flax, O<g ref="char:EOLhyphen"/>nious, Rape and ſuch like.</item>
+                        <item>Decima De <hi>Herbis,</hi> i. Of Pot-herbs.</item>
+                        <item>Decima De <hi>Curtilagiis,</hi> i. Of places adjoyning to man<g ref="char:EOLhyphen"/>ſion houſes, applied to ſeeds and herbs.</item>
+                     </list>
+                  </p>
+                  <p>1 Of Seeds and Herbs, what manner of tithes they be?</p>
+               </div>
+               <div n="10" type="question">
+                  <pb n="5" facs="tcp:107691:7"/>
+                  <head>The Tenth Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Pannagiis ſilvarum, i.</hi> Of Maſt, of Beech, or Oke, or ſuch like.</item>
+                     </list>
+                  </p>
+                  <p>1 Of Maſt, what, when it is given? and what, when it is ſold?</p>
+               </div>
+               <div n="11" type="question">
+                  <head>The Eleventh Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Molendinis,</hi> i. Of Mills, forced by wind, water, &amp;c.</item>
+                        <item>Decima De <hi>Vivariis,</hi> i. Of Parkes, Warrens, pools, ponds, &amp;c.</item>
+                        <item>Decima De <hi>Beſtiis guare<g ref="char:EOLhyphen"/>narum,</hi> i. Of wild beaſts under cuſtody, &amp;c.</item>
+                        <item>Decima De <hi>Columbariis,</hi> i. Of Dove-cotes, or houſes.</item>
+                        <item>Decima De <hi>Apibus,</hi> i. Of Bees.</item>
+                     </list>
+                  </p>
+                  <p>1 What manner of tithes they bee? And how they be tithable?</p>
+               </div>
+               <div n="12" type="question">
+                  <head>The Twelfth Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Aucupiis,</hi> i. Of Fowlings.</item>
+                        <item>Decima De <hi>Venationibus,</hi> i. Of Huntings.</item>
+                        <item>Decima De <hi>Piſcationibus, i.</hi> Of Fiſhings.</item>
+                     </list>
+                  </p>
+                  <p>1 Beaſts, Fiſhes, Fowles, how (diverſly) they be tithed, (diverſly) conſidered?</p>
+               </div>
+               <div n="13" type="question">
+                  <pb n="6" facs="tcp:107691:8"/>
+                  <head>The Thirteenth Queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Cignis,</hi> i. Of Swannes.</item>
+                        <item>Decima De <hi>Aucis,</hi> i, Of Geeſe.</item>
+                     </list>
+                  </p>
+                  <p>1 Of Swans, Geeſe, Ducks, and how they be conſider<g ref="char:EOLhyphen"/>ed of.</p>
+               </div>
+               <div n="14" type="question">
+                  <head>The Fourteenth queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Ovis,</hi> i, Of Egges.</item>
+                     </list>
+                  </p>
+                  <p>1 Of Egges, where tithes be yeelded, whether chick<g ref="char:EOLhyphen"/>ens be tithable there?</p>
+               </div>
+               <div n="15" type="question">
+                  <head>The Fifteenth queſtion.</head>
+                  <p>
+                     <list>
+                        <item>Decima De <hi>Artificiis,</hi> i, Of Crafts, and manual occu<g ref="char:EOLhyphen"/>pations.</item>
+                        <item>Decima De <hi>Negotiationibus,</hi> i, Of trades by wares, Marchandiſe, &amp;c.</item>
+                     </list>
+                  </p>
+                  <p>1 Of perſonal tithes, what time, place, and perſons, be required in them, and of whom the Church is for<g ref="char:EOLhyphen"/>bidden to receive either perſonal tith, or Oblation?</p>
+               </div>
+            </div>
+            <div n="1" type="question">
+               <head>The Firſt Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Frugibus, i,</hi> Of Harveſt fruits ſown, mown, reaped, gathered, bound or looſe, in Heap, ſhock or ſheaf.</item>
+                        </list>
+                     </p>
+                     <pb n="7" facs="tcp:107691:8"/>
+                     <p>1 When they be tithable, and ſuch other praedial Tithes, whether it be lawful to the owner to diſpoſe any manner of way of any part of the fruits before diviſion be made, and the Tenth part be ſevered from the Nine parts?</p>
+                     <p>2 If a ſtranger ſhall preſcribe tithes in another pariſh, and there ſhall happen afterwards barren and waſt grounds to be tilled, whether the ſtranger that pre<g ref="char:EOLhyphen"/>ſcribeth, or the Church where the grounds doe lie, ſhall reap the Tithes?</p>
+                     <p>3 If one ſhall have right of tithe in a wood, and that wood become afterwards arable ground, whether his right continueth in the corn?</p>
+                  </q> Queſtions of Tithing, and their Reſolutions. The firſt Queſtion.</head>
+               <p n="1">1 <seg rend="decorInit">P</seg>Ariſhioners out of their Harveſt-fruits, ſpecified under the word <hi>Frugibus</hi> (be<g ref="char:EOLhyphen"/>fore their tithes aſſigned of the ſame) diminiſh their fruits, ſome one way, ſome another: admit to godly, or pro<g ref="char:EOLhyphen"/>phane uſes: or (as their manner hath been) to the ſatisfying therein their labourers their wages. The queſtion is, whether this be lawful? It is anſwered, A fraud unto the Church: For this allow<g ref="char:EOLhyphen"/>ance (If any ſuch be) not otherwiſe ought to be made than forth of the Nine parts: and the reaſon is, <hi>Deci<g ref="char:EOLhyphen"/>ma debet ſolui ſine diminutione,</hi> &amp;c. Tithe muſt be paid without any diminiſhing <note n="a" place="margin">c. Cum h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mines de d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>cim. Glo. c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> erroris dam<g ref="char:EOLhyphen"/>nabilis. Con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> prou. Ang. d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dec. ver. err<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>re calculi.</note>:</p>
+               <p n="2">2 The parſon of the Rectorie of <hi>A (jure praeſcrip<g ref="char:EOLhyphen"/>tionis) i.</hi> by right of preſcription, hath intereſt in and to the predial tithes of the pariſh Church of <hi>B.</hi> where there be converted (into tillage) divers barren, heath,
+<pb n="8" facs="tcp:107691:9"/> and waſt grounds, that never before yeelded any pro<g ref="char:EOLhyphen"/>fit to the Church: The queſtion is, (now) of theſe tithes, and which of the Churches ſhall have them? It is anſwered, that the Pariſh Church of <hi>B</hi> ſhall have theſe Tythes, becauſe they be <hi>Decimae novalium,</hi> i. a<g ref="char:EOLhyphen"/>riſing of ſuch grounds that never were manured nor yeelded before any profit at all to the Church: and the reaſon is, by the foundation of every Church the Tithes in general of that and every pariſh, are due to<note n="b" place="margin">Cum con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gat. ubi <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. &amp; D D. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</note> their own proper &amp; peculiar Church. Now, for as much as the Church of <hi>A</hi> could never before be in poſſeſſion of the Tiths of theſe waſt ground, becauſe they never were in being, and that the law is, that <hi>Tantum prae<g ref="char:EOLhyphen"/>ſcriptum</hi>
+                  <note n="c" place="margin">Sine poſ<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſione. ff. de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cap.</note> 
+                  <hi>eſt, quantum eſt poſſeſſum, &amp; non plus, i.</hi> So much (and no more) in preſcription, than in poſſeſſi<g ref="char:EOLhyphen"/>on:<note n="d" place="margin">Quod <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. <hi>Sect.</hi> fl, ff. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>acquir. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſeſ. cap. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iditis de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcript. </note> And again, in that preſcription is not extended <hi>ad futura, i.</hi> It reacheth not unto profits of tythable grounds to come <hi>
+                     <note n="e" place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>an in ult. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tabili. in d. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cum con<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gat. </note>, Summae aequitatis eſt,</hi> &amp;c. <hi>i.</hi> The premiſes conſidered, it ſtandeth with great equity, in this caſe, that the Church of <hi>B</hi> ſhould reap and receive theſe tithes<note n="f" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſt. Io. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in d. c. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m con in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</note>
+               </p>
+               <p n="3">3 But note, it is otherwiſe where one ſhall be in poſſeſſion of the Tithe of Corn, or of Paſture, or of Wood, or of any predial Tithes whatſoever ariſing in the grounds wherein he preſcribeth, howbeit after<g ref="char:EOLhyphen"/>wards there bee planted or ſet and ſown in the ſame a<g ref="char:EOLhyphen"/>ny ſtrange plant, ſeed, or herb, that never grew before in theſe grounds. For example: Millet is ſown or Saffron, where corn hath been ſown uſually and ever before, and as the manner is, in ſome parts of this land to ſow in their Paſture grounds the herb that is called <hi>Glaſtum or Iſatis, Caeſar</hi> writeth of the old <hi>Brittans</hi> that they uſed with this herb to ſmear their faces, to the end to ſeem terrible to their enemies in war: we
+<pb n="9" facs="tcp:107691:9"/> call it in Engliſh wadde or woad. Again, Apples, or Nuts, be newly planted where never they grew before: and ſo <hi>Ex nemoribus, i.</hi> Of woods that be converted to arable grounds: the Tyths in all theſe caſes be paya<g ref="char:EOLhyphen"/>ble as before they were of the former fruits, and to whom the former fruits were tythable before, name<g ref="char:EOLhyphen"/>ly, to the parſon or Church that preſcribeth, and the reaſon is, <hi>viz. Praeſcriptio est realis cenſenda. i. Ter<g ref="char:EOLhyphen"/>ram concernens, non ſpeciem fructuum preceptorum. i.</hi> Pre<g ref="char:EOLhyphen"/>ſcription is real, that is to ſay, reſpecting not the new or never tythed fruits, but the tythable grounds that bringeth them forth <note n="g" place="margin">Ancha. in c Cum in tua. de deci. &amp; Ant. But. in. d. c Cum in tua<g ref="char:EOLhyphen"/>eod.</note>: In reſpect whereof, that is, of the grounds, the tythes whereof forepaſſed have been (without diſcontinuance or other inter<g ref="char:EOLhyphen"/>ruption,) continued and poſſeſſed, it is thus affirmed (in theſe caſes) of preſcription, <hi>viz. preſcriptio ex<g ref="char:EOLhyphen"/>tenditur ad particularitatem juris apprehenſi, ſub unico ju<g ref="char:EOLhyphen"/>re ut univerſali, i.</hi> Preſcription is extended to every particularity of right apprehended, as it were, under that particular, as general <note n="h" place="margin">Ant. But. in c praeal.</note>. Otherwiſe it ſhould be <hi>in poteſtate ſerentis, i.</hi> In the owners power (changing the fruits) to prevent anothers right in the Tyths of his certain, known, and tythable grounds: contray to the rule of the law, <hi>viz. Id quod noſtrum eſt ſine facto noſtro a nobis avelli non poteſt, i.</hi> That which is mine can<g ref="char:EOLhyphen"/>not (without my fact) be taken from me <note n="i" place="margin">ff. de reg. iur.</note>. Look the ſtatute <hi>De novalibus, i.</hi> of barren, heath, and waſte ground, 2. <hi>Ed.</hi> 6. 13. And look the ſtatute for predial Tythes, and Tythable places, 2. <hi>Ed.</hi> 6. 13.</p>
+            </div>
+            <div n="2" type="question">
+               <pb n="10" facs="tcp:107691:10"/>
+               <head>The Second Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Silvis caeduis,</hi> i. Of woods felled, &amp; pre<g ref="char:EOLhyphen"/>ſerved to grow again.</item>
+                           <item>Decima De <hi>Lignis,</hi> i. Of wood not in uſe, nor apt for Timber, but for firing.</item>
+                           <item>Decima De <hi>Thenitiis agrorum,</hi> i. Of trees planted for fencing of grounds, in fields, pa<g ref="char:EOLhyphen"/>ſtures, and hedge-rowes.</item>
+                           <item>Decima De <hi>Turvis, i.</hi> Of Turves growing in feniſh &amp; mooriſh ſoils, as in the Iſle of <hi>Ely.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>1 Wood of 20. years growth and upwards, whether it be tithable or not? And what of loppings of timber trees?</p>
+                     <p>2 When woods be felled and ſold, who ſhall anſwer the tithe? the buyer, or the ſeller?</p>
+                     <p>3 If the inheritance of a wood be ſold, that is in arre<g ref="char:EOLhyphen"/>rages for tithe, whom the Parſon may implead?</p>
+                     <p>4 Turves, amongſt what tythes they be reckoned?</p>
+                  </q> The Second Queſtion.</head>
+               <p n="1">1 <seg rend="decorInit">O</seg>F Woods and wood, contained and ſpe<g ref="char:EOLhyphen"/>cified under the words <hi>Silvis caeduis, Lignis, Thenitiis agrorum,</hi> ſome of them exceed the growth of xx. years, and ſome of them not felled within the memory of man, peradventure not of an hundreth or two of years: there groweth a queſtion of ſuch woods for the Tythes of the ſame: It ſhould ſeem, the Pariſhoner herein may plead for the one (againſt the Parſon) the ſtatute of <hi>Silva Cae<g ref="char:EOLhyphen"/>dua,</hi> that exempteth wood of Twenty yeares growth
+<pb n="11" facs="tcp:107691:10"/> and upwards, from the payment of tythes: and (for the other) both the Statute and preſcription, in that the Tyths therein were never performed: interpreting the Statute no further, then the ſtatute explaineth it ſelf: It is anſwered by the Canons alleaged, ſo farre forth (with proteſtation) and no further, then the ſtatute ſhall permit, that wood not in uſe nor apt for Timber is tithable, body or bough, felled or lopped <note n="k" place="margin">c. Quan<g ref="char:EOLhyphen"/>quam. Pro<g ref="char:EOLhyphen"/>vin. ang. eo<g ref="char:EOLhyphen"/>ubi. glo in ver. exicis.</note>. As for preſcription it is anſwered, <hi>Praeſcriptio locum habere non poteſt, ubi illi cui jus competit agere non po<g ref="char:EOLhyphen"/>teſt, cum ceſſet materia de qua experiatur, i.</hi> Preſcription hath no place, where the intereſſed (in his right) can make no demand, the matter ceaſing whereupon he ſhould work: For example, Of Wood never cut, the Tithe could never be demanded <note n="l" place="margin">Gloſſ. cap. Sancta eccle<g ref="char:EOLhyphen"/>ſia. provin. ang eo. ver. arborum. ad hoc l. arbori<g ref="char:EOLhyphen"/>bus ff. de uſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ft.</note>. But whether the loppings or boots of ſuch trees the which the Com<g ref="char:EOLhyphen"/>mon Lawes of the Realm account timber be tythable or not, is not yet decided by that Law.</p>
+               <p n="2">2 It is a queſtion, when Woods ſo felled be ſold, who ſhall anſwer the Tithes, the buyer or the Seller? It is anſwered, the Buyer <note n="m" place="margin">Ext de de<g ref="char:EOLhyphen"/>cim. c Paſto<g ref="char:EOLhyphen"/>ralis.</note> ſhall anſwer the Tyth: and the reaſon is, <hi>Decima ſequitur fructus, &amp; cum one<g ref="char:EOLhyphen"/>nere fruuctum decimae transferuntur in alterum, i.</hi> Tythe doth follow the fruits, &amp; fruits be tranſlated into ano<g ref="char:EOLhyphen"/>thers right together with the burthen of Tithes <note n="n" place="margin">c Praeal. eod.</note>.</p>
+               <p n="3">3 Where the Inheritance of a wood is ſold the Tithes whereof for certain years forepaſſed, by the Seller hath been detained and wrongfully ſubſtracted from the Church, It is a queſtion whom the Parſon may implead: It is holden he may implead the one or the other at his own choice <note n="o" place="margin">Pet dc an<g ref="char:EOLhyphen"/>cha. &amp; D. D c. cum homines eod.</note>, but he can recover but of one <note n="p" place="margin">Ar ad hoc de re iud. t. Bona fide. li. 6. Glo. pro<g ref="char:EOLhyphen"/>vin. Ang. de decim ver. aſportant.</note>. But by the ſtatutes of the land, the Seller onely, in this caſe, ſhall be impleaded and ſued unto treble damages, 2 <hi>Ed.</hi> 6. 13. And not the
+<pb n="12" facs="tcp:107691:11" rendition="simple:additions"/> buyer who took not the Tythe away.</p>
+               <p n="4">4 <hi>De Turvis, i.</hi> Of Turves, they be tithable, and comprehended under the word <hi>Lignis,</hi> becauſe they be ſo applied, that is, for firing <hi>
+                     <note n="q" place="margin">ff. Deleg. 3. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Ligni <hi>Sect.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ignorum verb <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uid mirum.</note>,</hi> and reckoned in the num<g ref="char:EOLhyphen"/>ber and amongſt predial Tythes.</p>
+            </div>
+            <div n="3" type="question">
+               <head>The Third Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Paſturis,</hi> i. Of paſture grounds.</item>
+                        </list>
+                     </p>
+                     <p>1 If they be fed, how the tithe ſhall be anſwered?</p>
+                  </q> The Third Queſtion.</head>
+               <p>1 OF Paſture grounds, when they be fed, it is a queſtion how the tithe ſhall be anſwered? It muſt be conſidered whoſe the grounds be, whether the owners of the cattel that fed them, or a ſtrangers of another Pariſh. In the firſt caſe, if the cattel be ſuch that yeeld profit to the Church, the Tyth is ſatisfied in the fruits of the beaſts <note n="r" place="margin">Inno ext. de decim c. commiſſum.</note> In the other caſe, it muſt be conſidered of the ſtran<g ref="char:EOLhyphen"/>ger, whether he ſelleth or giveth franckly to the own<g ref="char:EOLhyphen"/>er of the cattel, the paſturage of his grounds: the ſtranger if he ſell it, is anſwerable for the tenth Pen<g ref="char:EOLhyphen"/>ny: the Pariſhoner, if freely he receiveth it, is anſwe<g ref="char:EOLhyphen"/>rable for the eſtimation <note n="ſ" place="margin">c. Procal. eod</note>. But note, the eſtimation ſhall not be anſwered, but where the grounds with beaſts be fed, <hi>Nulla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eccleſiae utilitatem alias, &amp;c. i.</hi> Yeelding otherwiſe no profit at all to the Church, of which ſort be Horſes, Oxen, and ſuch other barren Beaſts. In other profitable cattel, the tyth is intended (as aforeſaid) to be anſwered in the fruits <note n="t" place="margin">Juxt. notat. per Inno ut ſup. glo. ver. dividenda prov. an. co.</note>. But note, that generally the occupier of the paſture is to pay the Tithe, and ſo is the cuſtome.</p>
+            </div>
+            <div n="4" type="question">
+               <pb n="13" facs="tcp:107691:11"/>
+               <head>The Fourth Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Fenis,</hi> i. Of Hay.</item>
+                        </list>
+                     </p>
+                     <p>1 Hay, of what places? and what Tithe it is?</p>
+                  </q> The Fourth Queſtion.</head>
+               <p>1 <hi>DE Fenis, i.</hi> Of Hay, according to the expoſiti<g ref="char:EOLhyphen"/>on of the word, the tythe is payable, <hi>viz.</hi> Of the graſſe withered or green, perceived and taken in Meddow, Paſture, great or ſmall, or in other place, places: or Angles (ſo with<g ref="char:EOLhyphen"/>in the limits of the pariſh) whereſoever <note n="u" place="margin">Prov. ang. c quoniam propter volu<g ref="char:EOLhyphen"/>mus.</note>: Queſtion hath been moved of this Tythe to this effect, that is to ſay, whether it be predial or perſonal: It is anſwe<g ref="char:EOLhyphen"/>red to be predial <note n="x" place="margin">Ancha cap pervenit. eod</note>: For how be it the induſtry and la<g ref="char:EOLhyphen"/>bour of the perſon may ſeem and be alleadged more to prevail (as they tearm it) in the making thereof, then the nature of the ground, yet in that it is per<g ref="char:EOLhyphen"/>ceived of the ground, and gathered of, and from a place certain, in ſome one or other known, certain, and limited Pariſh, it is tithable as other predial tithes be <note n="y" place="margin">Ad hoc e<g ref="char:EOLhyphen"/>paſtoralis. ext eod.</note>, that is, to that Pariſh Church where the grounds doe lie. Without Deduction of charges.</p>
+            </div>
+            <div n="5" type="question">
+               <head>The Fifth Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Lana,</hi> i. Of Wool.</item>
+                        </list>
+                     </p>
+                     <p>1 Whether the ſheep of Sons and Daughters be titha<g ref="char:EOLhyphen"/>ble (or not) with their fathers flocks wherein they do goe?</p>
+                     <pb n="14" facs="tcp:107691:12" rendition="simple:additions"/>
+                     <p>2 Where ſheep be removed from one pariſh to ano<g ref="char:EOLhyphen"/>ther, how the Tithe is divided by rate and proporti<g ref="char:EOLhyphen"/>on of time?</p>
+                     <p>3 If ſtrange ſheep be brought to another pariſh and there be cliped or ſhorn, how they be tithable there?</p>
+                  </q> The fift Queſtion.</head>
+               <p n="1">1 OF profits and increaſe of ſuch profitable beaſts before mentioned, &amp; ſpecified in particular under the words <hi>Lana Agnis,</hi> queſtion is mo<g ref="char:EOLhyphen"/>ved to this effect, there be in one family divers perſons having to the number of 3, 5, 6, 8, or 10. Lambs or fleeces of wool more or leſſe, their ſheep be depaſtured and ſo be reputed part and parcel of the flocks wherein they walk, couch, and do feed: The queſtion is of their Tythes, whether they be tithable with the flocks, or in their ſeveral parcels? It is an<g ref="char:EOLhyphen"/>ſwered, In their ſeveral parcels, and the reaſon is, <hi>Animalia quae gregibus alienis admixta ſunt, remanent eorum propria non quorum ſunt greges, ſed quorum ſunt animalia: i.</hi> Beaſts intermingled with other mens flocks, do remain notwithſtanding proper and peculiar unto thoſe, not whoſe be the flocks, but whoſe be the beaſts <note n="z" place="margin">c. Cle. c.</note>. Howbeit in Countries where perſons ſuch as Sons, &amp; daughters, in their fathers power, government, maintenance, and finding, ſhal have ſuch beaſts or cattel intended in law, and counted <hi>in bonis profectio &amp; adven<g ref="char:EOLhyphen"/>titio, i.</hi> accruing and growing by their fathers or friends by the mother ſide, by gift, procurement, or other<g ref="char:EOLhyphen"/>wiſe, in which beaſts their fathers are intereſſed, in the uſe and fruits, the bare property remaining to the children, the Tithes of theſe beaſts ſhall bee rec<g ref="char:EOLhyphen"/>koned with their Fathers <note n="a" place="margin">Arg. ad hoc ff. per quas perſonas no<g ref="char:EOLhyphen"/>bis <hi>Sect 1.</hi>
+                  </note>, and not in their ſeveral
+<pb n="15" facs="tcp:107691:12"/> parcels, and the reaſon is, <hi>Vt ipſarum rerum quae in fructu ſunt et patri adquiruntur, pater ſolvat dicimam,</hi> &amp;c. <hi>i.</hi> Of things in increaſe and procured to the fa<g ref="char:EOLhyphen"/>ther, ſo ſhall the father be anſwerable for the Tythe <note n="b" place="margin">Glou. prou. ang. de dec. ver. decima lanae.</note>, the property notwithſtanding reſerved to him or her to whom it belongeth, his ſon or daughter. But for that <hi>Patria Poteſtas, i.</hi> That legal power and preroga<g ref="char:EOLhyphen"/>tive of Fathers is not in uſe, neither yet <hi>Profectitium</hi> nor <hi>Adventitium peculium</hi> are known in <hi>England,</hi> the beaſts of Sons and Daughters here mentioned (in re<g ref="char:EOLhyphen"/>ſpect of their tyth) ſhall not be reckoned with their Fathers Cattel, but as the Cattel of other ſtran<g ref="char:EOLhyphen"/>gers: and what is given by the Father to the Sonne or to the Daughter, is their own, except the Father by expreſſe words ſhall reſerve the fruits of ſuch cat<g ref="char:EOLhyphen"/>tel ſo given, to himſelf.</p>
+               <p n="2">2 Where ſuch cattel be removed from Pariſh, to Pariſh, and queſtion be made what proportion of the Tythes is due to each Pariſh, the cuſtome of the place muſt be obſerved: otherwiſe the law is, <hi>viz. Quaelibet Eccleſia pro rata temporis portione decimas percipiet. i.</hi> Every Church ſhall receive it tithes by rate and pro<g ref="char:EOLhyphen"/>portion of time: but the queſtion is, of what ſpace this rate and proportion is meant? It is anſwered, of xxx. dayes, and ſo to be rated by Thirties from Thir<g ref="char:EOLhyphen"/>ty to Thirty, <hi>Minori trisginta Dierum ſpatio in rata tem<g ref="char:EOLhyphen"/>poris minime computando, i.</hi> Under or leſſe then the ſpace of xxx. dayes not to be counted in rate and pro<g ref="char:EOLhyphen"/>portion of time <note n="c" place="margin">Text. pro<g ref="char:EOLhyphen"/>uin. ang. ca<g ref="char:EOLhyphen"/>quoniam vt audinimus. eodem.</note>: for example, The pariſhoner hath forty ſheep which yeeld him at ſhearing day foure<g ref="char:EOLhyphen"/>ſcore Pounds of Wooll: that Church is intereſſed in<g ref="char:EOLhyphen"/>tirely in the tithe in whoſe Pariſh the whole year they couched and depaſtured: that Church in the half, that is, in the tithe of 40. pounds where the halfe
+<pb n="16" facs="tcp:107691:13"/> year they couched and depaſtured: that Church in twenty pounds where they couched three months and depaſtured: and ſo ratably four moneths, five moneths, more or leſſe accordingly: and that Church in whoſe Pariſh they couched and depaſtured but One Month, that is xxx. dayes, but in the tythe of the twelfth part thereof, that is, of the whole Fourſcore pounds, but the tenth of Six pounds and half, and under thirty dayes as afore is ſaid, no allowance at all <note n="d" place="margin">c. Ver ſed oves.</note>. But note, if the whole time they couch in one Pariſh, and depa<g ref="char:EOLhyphen"/>ſture in another, the Tyth ſhall be devided.<note n="e" place="margin">
+                     <hi>Sect</hi> ſi vero. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onſt. praeal.</note>
+               </p>
+               <p n="3">3 If peradventure they come from a ſtrange and unknown place to any Pariſh to be clipped or ſhorne, there the tithe muſt be paid, except it may appear the ſame to be ſatisfied to the Church whence they came.<note n="f" place="margin">
+                     <hi>Sect</hi> &amp; ſi o<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es conſt. ead.</note>
+               </p>
+            </div>
+            <div n="6" type="question">
+               <head>The Sixth Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima de <hi>Agnis,</hi> i. Of Lambs.</item>
+                           <item>Decima de <hi>Vitulis,</hi> i. Of Calves.</item>
+                           <item>Decima de <hi>Procellis,</hi> i. Of Pigges.</item>
+                           <item>Decima de <hi>Pullis,</hi> i. Of Colts.</item>
+                        </list>
+                     </p>
+                     <p>1 Whether the perſon may expect his Lamb (the next year following) if the pariſhioners number in any one year amounteth not to ten? And what, if he fail<g ref="char:EOLhyphen"/>eth then?</p>
+                     <p>2 When ewes be removed, and other ſuch cattel and beaſts from one pariſh to another, how the ſeveral <hi>Churches</hi> be intereſted in the Tithe of their Lambs, and ſuch other increaſe.</p>
+                     <pb n="17" facs="tcp:107691:13"/>
+                     <p>3 Of Lamb, calf, Kid, colt, pigge, &amp;c. and when is their Tythable time?</p>
+                  </q> The Sixt Queſtion.</head>
+               <p n="1">1 FOr tythes in profitable beaſts, the Parſon may expect the fall of the Tenth the next year fol<g ref="char:EOLhyphen"/>lowing, if the number in any one year a<g ref="char:EOLhyphen"/>mounteth not to ten, according to the text of the conſtitution <note n="g" place="margin">Text pro<g ref="char:EOLhyphen"/>vin ang. co. quoniam prop<g ref="char:EOLhyphen"/>ter de decim.</note>, <hi>viz. Vel expect et rector uſque ad alium annum donec plenarie decimum agnum poſſit recipere, ſi ma<g ref="char:EOLhyphen"/>luerit: i.</hi> Or let the Parſon (if ſo he had rather to do) expect another year, till he may fully receive his tenth Lamb. Now it falleth out the Parſon uſeth his liberty and refuſeth his Lamb at ſeven, and his half pence at Six, and the Pariſhoner the year following hath never a Lamb at all: The queſtion is, how the tyth ſhall be ſatisfied? It is anſwered, (in this caſe) the Parſon hath no remedy in law, and the reaſon is, <hi>a principio male eligendo fuit in culpa, ergo in hoc ſibi imputetur, i.</hi> He made his choice but ill at the firſt, which was his own default, and therefore he muſt blame himſelf <note n="h" place="margin">Arg. ad hoe inſt. quod cum eo qui in alt. pot <hi>Sect.</hi> caeterum au<g ref="char:EOLhyphen"/>tem &amp; glo. conſt. prov. praeal. verb. poſſit recipe<g ref="char:EOLhyphen"/>re.</note>. Yet <hi>Lyndwood</hi> affirmeth in this caſe, That in regard of the Church, in reſpect whereof tithes ought not to be loſt, and in regard of the party himſelf, the owner of the fruits, who without ſin cannot detain by any colour the rights from the Church, though the Parſon (for his own ſake) cannot relieve himſelf <hi>Jure Actionis, i.</hi> By right of action: yet for the Churches ſake <hi>Officium Judicis, i.</hi> The judge his office may be deſired <note n="i" place="margin">c. verb. conſt. praeal.</note>.</p>
+               <p n="2">2 Yeaws be ſometimes removed from grounds to grounds, from pariſh to pariſh, the queſtion is, (in this caſe) of the right of their tithes: It is thus an<g ref="char:EOLhyphen"/>ſwered
+<pb n="18" facs="tcp:107691:14"/> by the text law <note n="k" place="margin">c. Quoniam ut audivimus. eonſt. Provin. ang <hi>Sect</hi> agni. eod.</note>. <hi>viz.</hi> The tithe of Lamb is pay<g ref="char:EOLhyphen"/>able in manner and forme as be the tyths of calves and colts and ſuch other like tithable increaſe, mentioned to be Pigge, kid, <hi>&amp;c.</hi> of which the Law determineth thus, <hi>viz. Habita ratione ad loca diverſa ubi gignuntur, oriuntur, et nutriuntur, &amp; ad moram quam traxerint eiſ<g ref="char:EOLhyphen"/>dem particulariter decimentur, i.</hi> They be tithable by rate and proportion (particularly) to the ſeveral Churches in whoſe pariſhes they were ingendred, brought forth, and nouriſhed <note n="l" place="margin">Ca. &amp; <hi>Sect.</hi> prae.</note>: for example, The Yeaw goeth five moneths with her Lamb, they put them together the Male and Female the laſt of September, where they coupled they remain one moneth: they be remo<g ref="char:EOLhyphen"/>ved to a ſecond pariſh, to a third, to a fourth, and to a fifth, where they be depaſtured ſeveral months: in this caſe <hi>Vnuſquiſque pro tempore ſuo: i.</hi> Every Parſon for his time <note n="m" place="margin">Glo. c. &amp; <hi>Sect</hi> praeal. verb. particu<g ref="char:EOLhyphen"/>laritur.</note>, that is (the ſeveral times and places conſi<g ref="char:EOLhyphen"/>dered) the ſeveral Churches in the tyths have ſeveral rights accordingly <note n="n" place="margin">C. &amp; <hi>Sect</hi> prae.</note>.</p>
+               <p n="3">3 And touching the queſtion of their tithable time, it is anſwered thus, <hi>Faetus ablactatus eſſe debet antequam pre<g ref="char:EOLhyphen"/>ſtetur, i.</hi> They muſt be, weaned, weanable, or of ſtrength to live without the damme <note n="o" place="margin">Rebuff, co.</note>, except cuſtom hath obſer<g ref="char:EOLhyphen"/>ved<note place="margin">q. 6. un 30. Inno. hoſt. &amp; alii in ca. cum homines. eod.</note> therein a time certaine, the which where ſo it is, there it muſt be continued. Look cuſtom the 6.</p>
+            </div>
+            <div n="7" type="question">
+               <head>The Seventh Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Lacte,</hi> i. Of Milke.</item>
+                           <item>Decima De <hi>Caſeo,</hi> i. Of Cheeſe.</item>
+                        </list>
+                     </p>
+                     <p>1 Milk and Cheeſe how? and when they be tithable?</p>
+                     <pb n="19" facs="tcp:107691:14"/>
+                     <p>2 If Cattel feed in one pariſh and couch in another, how the profits be tithed?</p>
+                     <p>3 Where Cheeſe is tithable, and the number of Cat<g ref="char:EOLhyphen"/>tel ſo ſmall that none can be made; how the tithe ſhall be anſwered for their ſmall proportion?</p>
+                     <p>4 Where Milk of ſheep is tithed in kind, how they be tithable (for their paſture) in the Winter, when they doe yeeld no ſuch profit?</p>
+                  </q> The Seventh Queſtion.</head>
+               <p n="1">1 MIlk and Cheeſe, <hi>viz.</hi> of Kine, of Sheep, or of Goats, they be reckoned as <hi>In pecudum fructu, i.</hi> In the increaſe of ſuch cattel <note n="p" place="margin">ff. de uſufr, l. in pecudum inſt de re. di. <hi>Sect</hi> in pecu<g ref="char:EOLhyphen"/>dum.</note>, as alſo be <hi>Lana &amp; faetus, i.</hi> Wooll, Calfe, Kid, and Lamb, whereof mention is made in the fifth and ſixth queſtions before: and touching queſtion here<g ref="char:EOLhyphen"/>in to be made, ſuppoſe of the Milk when it is percei<g ref="char:EOLhyphen"/>ved and taken, of the nine parts thereof (when the tenth is duducted) there be made ten cheeſes it is an<g ref="char:EOLhyphen"/>ſwered, in this caſe, The cheeſes are not to be tithed <note n="q" place="margin">de reg. iur. in 6.</note>: for cheeſe is not tithable but where milk is not tithed: and ſo of the other: briefly, they be tithable either of them <hi>tempore ſuo, i.</hi> In their ſeaſons <note n="r" place="margin">c. quoniam propter prae. de decim.</note>, and ſo long, and ſo ſoon, as either Milk or Cheeſe ſhall be perceived and taken (in their kind) by the Pariſhoner: there can be no cuſtome of intermiſſion to the contrary. Look Cuſtome, the 3. And what the Law of cuſtome may be in this caſe, followeth here the 3.</p>
+               <p n="2">2 Sometime theſe cattel be depaſtured in one Pa<g ref="char:EOLhyphen"/>riſh, and couch in another, in this caſe it may be de<g ref="char:EOLhyphen"/>manded, What the law determineth of the tyth? It is anſwerd in the text Law, <hi>viz. Quod inter Rectoris di<g ref="char:EOLhyphen"/>vidatur, i.</hi> In this caſe the Parſons ſhall divide <note n="ſ" place="margin">c Quoniam ut audivimus. praeal. <hi>Sect</hi> de<g ref="char:EOLhyphen"/>cima.</note>.</p>
+               <pb n="20" facs="tcp:107691:15"/>
+               <p n="3">3 Queſtion alſo herein is moved further in Law,<note n="t" place="margin">c quoniam propter prae. <hi>Sect</hi> quid vero.</note>, where ſuch tythes be payable in kind, and the number of cattel ſo ſmall as <hi>Lyndwood</hi> ſuppoſeth <note n="u" place="margin">in cap. &amp; <hi>Sect</hi> praeal verb. modicitatem.</note> of ſome one or other Pariſhioners, which have not only three, two, or peradventure but one onely Cow, and thoſe, or that to be milked but <hi>alternis diebus, i.</hi> But each other day, by reaſon whereof the pariſhioner can make no cheeſe at all: what is the Churches right in this caſe? It is anſwered in the text Law <note n="x" place="margin">c. <hi>Sect</hi> praeal. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n fin.</note>. <hi>viz. Conſuetudi<g ref="char:EOLhyphen"/>ni locorum duximus relinquendum, i.</hi> The cuſtome of the place muſt be obſerved: provided the cuſtome be, that <hi>Certum quid ſoluatur, i.</hi> That ſomewhat be paid in con<g ref="char:EOLhyphen"/>ſideration and liew <note n="y" place="margin">ext. e. ti. c. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n aliquibus.</note> for cuſtome herein (as in all other caſes of tything) cannot exclude <hi>ſolutionem decimae, i.</hi> It cannot intirely take away the payment of the tithes of ſuch profits as ariſe, as may appear in cuſtome the third, onely it may limit <hi>ſolutionem decimae, i.</hi> Cuſtome may moderate the payment of Tithes. Look cuſtome the fourth. Hither (by a conſtitution provincial of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) alſo be referred Calf, Colt, Pigge and ſuch like, that is, when their number is ſo ſmal that they cannot be tithed: it is the Chapter <hi>Quoniam ut audivi<g ref="char:EOLhyphen"/>mus,</hi> and Paragraph <hi>quid vero,</hi> which conſtitution <hi>Lyndwood</hi> affirmeth upon the ſame Paragraph, that it extendeth not to Wooll and Lamb, but citeth there another expreſſe and peculiar ordinance for the ſame, <hi>viz.</hi> If the Pariſhoner ſhall have ſix Lambs or under, he ſhall yeeld for his tith for every Lamb a half-peny: if ſeven Lambs, he ſhall yeeld a Lamb for his tithe, and receive three half-pence: if eight, a peny: if nine, the Pariſhioner (onely) receiveth a half-peny of the Parſon, or the parſon may expect, according to the ſixt queſtion before. <hi>Et ita intelligendum eſt de decima Lanae. i.</hi> The ſame ordinance and provincial conſtitu<g ref="char:EOLhyphen"/>tion
+<pb n="21" facs="tcp:107691:15"/> is had of Wool. It is the Chapter <hi>quoniam prop<g ref="char:EOLhyphen"/>ter,</hi> and Paragraph <hi>De nutrimentis,</hi> in the title of tithes.</p>
+               <p n="4">4 <hi>Poſt feſtum, &amp;c, i.</hi> after the feaſt of Saint <hi>Martin</hi> in winter, ſheep be eftſoons removed from pariſh to pariſh, or elſe they doe continue in one and the ſame pariſh from that feaſt till ſhearing day enſuing: the queſtion is, of their tithes? It is anſwered, they be tithable thus, <hi>viz. Habita ratione ad numerum ovium Paſcua eſtimentur, i.</hi> The paſture in this caſe muſt be conſidered (for want of their milk in this ſeaſon) by the head or number of the ſheep that depaſtured in them <note n="z" place="margin">c. Quoniam ut audivimus praeal <hi>Sect</hi> quod ſi prov. a g. c</note>, and ſo ſhall the tithe be rated and yeelded <note n="a" place="margin">c. <hi>Sect.</hi> prae. c</note>: by rate and proportion of time (by the moneth <note n="b" place="margin">Gloſſ. c. <hi>Sect</hi> praeal. verb. eſtimentur.</note>) as <hi>Lyndwood</hi> inferreth, and as it is ſaid of thirty dayes, and by thirties and ſo from thirty to thirty, as in the firſt queſtion before of Wooll.</p>
+            </div>
+            <div n="8" type="question">
+               <head>The Eighth Question.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima de <hi>Fructibus arborum,</hi> i. Of Fruits of Trees.</item>
+                        </list>
+                     </p>
+                     <p>1 Of apples and other ſuch fruits of trees, what of their tithable time?</p>
+                  </q> The Eighth Queſtion.</head>
+               <p>1 FRuits of trees, <hi>viz.</hi> Apples, pears, wardens, &amp;c. the queſtion is of their tithable time: it is anſwered, <hi>Statim fructibus collectis, i.</hi> So ſoon and im<g ref="char:EOLhyphen"/>mediately when the fruits ſhall be gathered <note n="c" place="margin">c. cum homi<g ref="char:EOLhyphen"/>nes eod.</note>, and the reaſon is, <hi>quia minus ſoluit, qui tardius ſoluit, i.</hi> He di<g ref="char:EOLhyphen"/>miniſheth
+<pb n="22" facs="tcp:107691:16"/> his duty that delaveth the time<note n="d" place="margin">ſi cui in ſi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff. de verb. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>: if therefore: the Pariſhoner ſhall gather his fruits, and neither pay the Tythes preſently, nor moniſh the parſon to receive them, but ſubtract them, or that (otherwiſe) they be impayred or loſt, <hi>tenebitur,</hi> ſaith the Law; that is, The Pariſhioner is bounden to what ſatisfaction look the Statute 2. <hi>Ed.</hi> 6. 13. for fruits be Tythable, and pre<g ref="char:EOLhyphen"/>dial<note place="margin">cum ho<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes prae. eod. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xt. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1. e. ad A<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtolice. c. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rvenit eod.</note>
+               </p>
+            </div>
+            <div n="9" type="question">
+               <head>The Ninth Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Seminibus,</hi> i. Of ſeeds: Hemp, Flax, O<g ref="char:EOLhyphen"/>nions, Rape and ſuch like.</item>
+                           <item>Decima De <hi>Herbis,</hi> i. Of Pot-herbs.</item>
+                           <item>Decima De <hi>Curtilagiis,</hi> i. Of places adjoyning to man<g ref="char:EOLhyphen"/>ſion houſes, applied to ſeeds and herbs.</item>
+                        </list>
+                     </p>
+                     <p>1 Of Seeds and Herbs, what manner of tithes they be?</p>
+                  </q> The Ninth Queſtion.</head>
+               <p>1 Seeds and hearbs, <hi>viz.</hi> of Flax, Millet, Hemp, Leek, Onion, Rape, Percely, Sage, Mint, Rue, &amp;c. comprehended under the words <hi>Seminibus, Herbis, Curtilagijs,</hi> they be tithable <note n="g" place="margin">c. quoniam propter prae. prov. ang c.</note>, as they be perceived and taken in Gardens, or in the fields, either of the ſeed, or of the herb before the ſeeding time <note n="h" place="margin">Concor. ext. eo. c. ex parte canonicorum</note>, <hi>Niſi parochi<g ref="char:EOLhyphen"/>ani competentem fecerint redemptionem, i.</hi> Except the pa<g ref="char:EOLhyphen"/>riſhioners ſufficiently ſhall redeem or compound for the ſame <note n="i" place="margin">c. quoniam propter prae.</note>, theſe be <hi>Minutae decimae, i.</hi> Small tithes ac<g ref="char:EOLhyphen"/>cording to the Evangeliſt <note n="k" place="margin">Lu. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ho<g ref="char:EOLhyphen"/>c. ex multipli<g ref="char:EOLhyphen"/>ci. eo.</note>, <hi>viz. Ye tyth mint and Rue, &amp;c.</hi> And therefore in them no great queſtion to be made.</p>
+            </div>
+            <div n="10" type="question">
+               <pb n="23" facs="tcp:107691:16"/>
+               <head>The Tenth Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Pannagiis ſilvarum, i</hi> Of Maſt, of Beech, or Oke, or ſuch like.</item>
+                        </list>
+                     </p>
+                     <p>1 Of Maſt, what, when it is given? and what, when it is ſold?</p>
+                  </q> The Tenth Queſtion.</head>
+               <p>1 <seg rend="decorInit">B</seg>Y the chapter <hi>Sancta Eccleſia,</hi> in the pro<g ref="char:EOLhyphen"/>vincial Conſtitutions of <hi>England,</hi> and title of Tyths, the tyth of Maſt and of other ſuch wood and wilde fruits, be payable, <hi>viz. Si vendantur, i.</hi> If they bee ſold <note n="l" place="margin">c. Sancta eccleſia pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>: that is, (as the gloſſe inferreth) of the tenth peny, if they be ſold; otherwiſe, that is, if Swine franckly &amp; freely received &amp; fed, without con<g ref="char:EOLhyphen"/>ſideration of charges to the owner, in this caſe <hi>Tranſ<g ref="char:EOLhyphen"/>eunt fructus cum onere, i.</hi> The fruits do paſſe with their charges <note n="m" place="margin">glo. in d. verb. ſi ven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dantur. ubi <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hoc exteo. c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> paſtoralis, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Inno ext. c. commiſſum.</note>, <hi>viz.</hi> with the burthen of tythes.</p>
+            </div>
+            <div n="11" type="question">
+               <head>The Eleventh Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Molendinis,</hi> i. Of Mills, forced by wind, water, &amp;c.</item>
+                           <item>Decima De <hi>Vivariis,</hi> i. Of Parkes, Warrens, pools, ponds, &amp;c.</item>
+                           <item>Decima De <hi>Beſtiis guare<g ref="char:EOLhyphen"/>narum,</hi> i. Of wild beaſts under cuſtody, &amp;c.</item>
+                           <item>Decima De <hi>Columbariis,</hi> i. Of Dove-cotes, or houſes.</item>
+                           <item>Decima De <hi>Apibus,</hi> i. Of Bees.</item>
+                        </list>
+                     </p>
+                     <pb n="24" facs="tcp:107691:17"/>
+                     <p>1 What manner of tithes they bee? And how they be tithable?</p>
+                  </q> The Eleventh Queſtion.</head>
+               <p>1 QUeſtion hath been moved of the tyths of Mils, Parks, Ponds, Warrens, dove<g ref="char:EOLhyphen"/>houſes, and Bees, to this effect, <hi>viz.</hi> Whe<g ref="char:EOLhyphen"/>ther they be predial, or perſonal? it is anſwer<g ref="char:EOLhyphen"/>ed, They be predial, and tithable without deducti<g ref="char:EOLhyphen"/>on of charges<note n="n" place="margin">DD. in cap. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſtoralis. &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liis ca. eod.</note>, for the reaſon alleaged in the fourth Queſtion before. And they be tithable thus; that is to ſay, not the tenth of the rent for mills (as they tearm it) the tenth peny, nor for Bees, the tenth Bee, or warm, or Hive, but <hi>De proventibus molendi<g ref="char:EOLhyphen"/>norum,</hi> i. The tenth meaſure of Corn for Mills<note n="o" place="margin">c: quoniam propter, pre-<hi>Sect</hi> de pro<g ref="char:EOLhyphen"/>tentibus &amp; ibi <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lo. verb. inti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re. </note>, and ſo for Bees, the tenth meaſure of hony, the tenth waight of wax, briefly, <hi>De cera &amp; melle, i.</hi> Of Hony and wax<note n="p" place="margin">Hoſt. &amp; alii. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. nuntios. c.</note>. And the law and reaſon is of theſe tithes, eſpecially of Mills, as of other predial tithes, where<g ref="char:EOLhyphen"/>of (for example) it is ſaid, <hi>Tranſit herba paſta cum o<g ref="char:EOLhyphen"/>nere ſuo ad dominum beſtiarum, i.</hi> Where grounds or pa<g ref="char:EOLhyphen"/>ſtures be demiſed, or their herbages ſold, the owner of the beaſts is chargeable with the tythe <note n="q" place="margin">Ad hec ff. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e uſuft. l uſu. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ructu legato<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> item ſi <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>undi.</note>. Eſpecial<g ref="char:EOLhyphen"/>ly for the practiſe of <hi>England,</hi> look what is ſaid in the Third Queſtion before. Hither be referred Parks, Ponds, Dove-houſes, &amp;c. for <hi>Fructus tranſit cum onere ſuo, i.</hi> Fruits be lyable to their charges. Look in the Second Queſtion before, 2.</p>
+            </div>
+            <div n="12" type="question">
+               <pb n="25" facs="tcp:107691:17"/>
+               <head>The Twelfth Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Aucupiis,</hi> i. Of Fowlings.</item>
+                           <item>Decima De <hi>Venationibus,</hi> i. Of Huntings.</item>
+                           <item>Decima De <hi>Piſcationibus, i.</hi> Of Fiſhings.</item>
+                        </list>
+                     </p>
+                     <p>1 Beaſts, Fiſhes, Fowles, how (diverſly) they be tithed, (diverſly) conſidered?</p>
+                  </q> The Twelfth Queſtion.</head>
+               <p>1 THe profits that be mentioned &amp; contained under the words <hi>Aucupiis, Venationibus, Piſ<g ref="char:EOLhyphen"/>cationibus, i.</hi> Of fowlings, Huntings, fiſhings, queſtion hath been moved of the tythes of the ſame, <hi>viz.</hi> The Pariſhoners of <hi>N.</hi> one of them fowleth, another hunteth, the third fiſheth, in the fields, grounds, and Rivers of <hi>B.</hi> the queſtion is of the tithes, of their advantages taken, and which of the Churches be Interreſſed in the ſame, <hi>viz.</hi> whether the Church of <hi>N.</hi> where the Pariſhoners inhabit, or the Church of <hi>B.</hi> where the Profits were taken? It is thus anſwered, <hi>viz.</hi> If the Pariſhoner had of the owners of the places franck and free liberty to fowl, hunt, and fiſh, the Church of <hi>N.</hi> that is, their own pariſh Church ſhall be intirely interreſſed in them, as in perſonal tithes <note n="r" place="margin">Inno. in ca. non eſt, eod. &amp; ibi Hoſt. verb. de vena<g ref="char:EOLhyphen"/>tione.</note>: but if any conſideration be required, either in money or in part of their gain, that profit onely re<g ref="char:EOLhyphen"/>ceived by the owner, is predial and tithable to the Church of <hi>B.</hi> that is to ſay, in that pariſh where the fields, grounds, and Rivers do lie <note n="ſ" place="margin">Inno. in &amp; Hoſt. cap. &amp; verb praeal.</note>. <hi>De caeteris vero, i.</hi> Of the reſidue, that is to ſay, of the clear gain of theſe Beaſts, fiſhes, and fowles, all charges and ex<g ref="char:EOLhyphen"/>pences,
+<pb n="20" facs="tcp:107691:18"/> in, about, belonging, and concerning theſe profits taken, deducted <note n="t" place="margin">D D. praeal. in ca. paſtora<g ref="char:EOLhyphen"/>lis, eod.</note>, the Pariſhoners that took them be chargeable withall to their pariſh Church of <hi>N</hi> 
+                  <note n="u" place="margin">DD. in d. c. Non eſt ibi i<g ref="char:EOLhyphen"/>dem not per D D. prae. in decimis a vium &amp; fera<g ref="char:EOLhyphen"/>rum gloſſ. in pre. c. quoni<g ref="char:EOLhyphen"/>am propter <hi>Sect</hi> de piſcati<g ref="char:EOLhyphen"/>onibus provin. ang. eod. verb. debit o modo.</note>, mentioned before: and the reaſon is, the Fowls, Beaſts, and Fiſhes be taken <hi>artificio, miniſterio &amp; opere hominis, i.</hi> By the art onely, labour, and induſtry of man, from whence proceedeth perſonal tiths <note n="x" place="margin">c. ad apoſto. licae. eod.</note>, pay<g ref="char:EOLhyphen"/>able onely where the Pariſhioners inhabit <note n="y" place="margin">c queſti 16. q. 1.</note>. But if the conſideration mentioned here, required and taken by the owners, commeth not by art, or induſtry, but <hi>Ex hu ro, i.</hi> By way onely, and means of the ground <note n="z" place="margin">Inno. Hoſt. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n c. non eſt praeal eod. verb. de vena<g ref="char:EOLhyphen"/>tione.</note>, from whence do ariſe all predial tithes <note n="a" place="margin">c. 1. c. ad a<g ref="char:EOLhyphen"/>poſtolice. c. pervenit. prae. eod.</note>: payable one<g ref="char:EOLhyphen"/>ly in the place and pariſhes within whoſe bounds and limits they are <note n="b" place="margin">cap ſin. de parochiis. </note>. Thus they be divers, theſe tithes, diverſly reſpected, that is to ſay, predial or perſonal; note the difference. Note alſo, that where ſuch tithes bee demanded, it is where ſuch art, induſtry, and travel is anſwered and rewarded, not with pleaſure<note n="c" place="margin">Rebuff. eo. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 8 nu. 17. </note>, but with profit<note n="d" place="margin">Ancha. in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>raeal. c. non <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt. co. col. 2.</note>. Queſtion hath further been moved of theſe profits and advantages aforeſaid, to this effect: <hi>viz.</hi> the pariſhioners mentioned of <hi>N.</hi> had franck and free leave and liberty to hunt, fiſh and Fowl within the fields, grounds, meddows, rivers, and running ſtreams of <hi>B.</hi> mentioned before: they took, preſerved and reſer<g ref="char:EOLhyphen"/>ved alive their beaſts, fowls, and fiſhes, and ſo they con<g ref="char:EOLhyphen"/>veyed them to certain their own proper and private grounds, within the bounds, compaſſe, and limits of another pariſh, then either of <hi>N.</hi> where they dwell or of <hi>B.</hi> where they took them: they include them (there) theſe beaſts, fowls, and fiſhes, and compaſſe them within parks, Warrens, ponds, pooles, houſes, ſuch as be mentioned and comprehended under the words <hi>Vivariis Columbariis,</hi> in the eleventh queſtion before. Thus they feed and nouriſh them, and they
+<pb n="27" facs="tcp:107691:18"/> breed, and increaſe in their kindes: now, in that theſe incloſed and limited places do alter and change (in law) the nature of the profits of the nouriſhed Crea<g ref="char:EOLhyphen"/>tures within them <note n="e" place="margin">Rebuff. eo. nu. 14. &amp; 15. ad hec Inno. &amp; Pan. in d. c. non eſt.</note>, which of the Churches have right to the Tithes? It is thus anſwered, <hi>viz.</hi> They were included at the firſt as they were taken, that is, by art and induſtery of man <note n="f" place="margin">Inno. &amp; Hoſt. in d. c. non eſt.</note>: howbeit they increaſe not by induſtery and art, but by the nutriment and nou<g ref="char:EOLhyphen"/>riſhment of the waters and grounds, where they live <hi>ex ſola gratia Dei, i.</hi> Of the meere grace and bounty of God <note n="g" place="margin">D D. prae. in d. c. non eſt.</note>: and therefore for the rate, value, and propor<g ref="char:EOLhyphen"/>tion of themſelves, they remain theſe profiets as they were taken at the firſt, that is, perſonal: Tithable to the Church of their Pariſh that took them <note n="h" place="margin">Pan in cap. praeal. &amp; ibi An. de intel<g ref="char:EOLhyphen"/>lectu Hoſtien<g ref="char:EOLhyphen"/>ſis ad idem.</note>. But their increaſe is predial, Tithable to the Church within whoſe limits they be, and be fed, and nouriſhed <note n="i" place="margin">Pan. &amp; D D. in d. c non eſt.</note>. The circumſtances of theſe tithes mentioned in theſe caſes, according to that worthy and of famous memo<g ref="char:EOLhyphen"/>ry <hi>Hoſtienſis,</hi> do make them neither meerely predial, nor meerely perſonal, but mixt Tythes <note n="k" place="margin">Hoſt. in ca. praeal.</note>: payable not<g ref="char:EOLhyphen"/>withſtanding as predial and perſonal diverſly reſpect<g ref="char:EOLhyphen"/>ed as aforeſaid. So, conſider thus (briefly) of theſe Tithes, that is to ſay, conſidered as they be included within compaſſe, limits, and bounds (from their na<g ref="char:EOLhyphen"/>tural liberty) tyed and reſtrained to the ſame, as in ponds, parks, warrens, houſes, and in ſuch like li<g ref="char:EOLhyphen"/>mited places, they be predial Tithes: but conſidered as they enjoy (at their will) their natural liberties, as Fiſhes, the Sea; Fowls, the Aire; and Beaſts, the Fields; in that they are not reckoned of any place certain, their Tithes be not predial but perſonal: touching therefore queſtion herein to be made, to what Chur<g ref="char:EOLhyphen"/>ches they be due? It is anſwered as of predial and per<g ref="char:EOLhyphen"/>ſonal Tithes: that is, the one to that Church in whoſe
+<pb n="28" facs="tcp:107691:19"/> Pariſh theſe limited places aforeſaid do lie that doe make them predial; the other to that Church in whoſe pariſh the Parſon doth inhabit that maketh them per<g ref="char:EOLhyphen"/>ſonal. And this is the difference.</p>
+            </div>
+            <div n="13" type="question">
+               <head>The Thirteenth Queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Cignis,</hi> i. Of Swannes.</item>
+                           <item>Decima De <hi>Aucis,</hi> i. Of Geeſe.</item>
+                        </list>
+                     </p>
+                     <p>1 Of Swans, Geeſe, Ducks, and how they be conſider<g ref="char:EOLhyphen"/>ed of.</p>
+                  </q> The Thirtenth Queſtion.</head>
+               <p>1 SWanns, Geeſe, and Ducks, be diſtinguiſhed thus, <hi>viz.</hi> whether they bee <hi>Volantes, i.</hi> whether they be wilde and do flie, or be tame, or not: this conſidered, the profits be tithable accordingly: for example, The Cygnets, <hi>Si naſcuntur in loco certo, &amp; ſuſcipiuntur a loco certo, i.</hi> If they be brought forth and ſo be taken in and from a certain and known place, they be predial and tithable, as predial Tithes: if from incertain places, they be perſonal, and ſo they be Tithable, <hi>viz.</hi> as perſonal Tithes <note n="l" place="margin">Gloſſ in c. ſancta Eccle<g ref="char:EOLhyphen"/>ſia prae. <hi>Sect.</hi> 1. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er cignorum.</note>. It is affirmed of them, as of beaſts, fowls, fiſhes <note n="m" place="margin">DD. ext. c. it c, non eſt.</note>, in the queſtion laſt before. Hither by the chapter <hi>Sancta Eccleſia,</hi> in the provincials of <hi>England,</hi> be referred Geeſe and Ducks.</p>
+            </div>
+            <div n="14" type="question">
+               <head>The Fourteenth queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Ovis,</hi> i. Of Egges.</item>
+                        </list>
+                     </p>
+                     <p>1 Of Egges, where tithes be yeelded, whether chick<g ref="char:EOLhyphen"/>ens be tithable there?</p>
+                  </q>
+                  <pb n="29" facs="tcp:107691:19"/> The Fourtenth Queſtion.</head>
+               <p>1 <hi>DE Ovis, i.</hi> Of Egges, it hath been moved whe<g ref="char:EOLhyphen"/>ther they be tithable in ſuch places where tithes be yeelded of Chickens? By the writ<g ref="char:EOLhyphen"/>ten law it may be anſwered, as of milk and Cheeſe in the ſeventh queſtion before, the 1. Howbeit Cuſtome in this caſe prevaileth, as experience ſheweth in ſome parts of this Land <note n="n" place="margin">Gloſſ. in. d<g ref="char:EOLhyphen"/>e ſancta eccle<g ref="char:EOLunhyphen"/>ſia. cap. quo<g ref="char:EOLhyphen"/>niam ut audi<g ref="char:EOLunhyphen"/>vimus ver. pulli.</note>.</p>
+            </div>
+            <div n="15" type="question">
+               <head>The Fifteenth queſtion.
+<q>
+                     <p>
+                        <list>
+                           <item>Decima De <hi>Artificiis,</hi> i, Of Crafts, and manual occu<g ref="char:EOLhyphen"/>pations.</item>
+                           <item>Decima De <hi>Negotiationibus,</hi> i, Of trades by wares, Marchandiſe, &amp;c.</item>
+                        </list>
+                     </p>
+                     <p>1 Of perſonal tithes, what time, place, and perſons, be required in them, and of whom the Church is for<g ref="char:EOLhyphen"/>bidden to receive either perſonal tith, or Oblation?</p>
+                  </q> The Fifteenth Queſtion.</head>
+               <p n="1">1 TRades, Crafts, and Manual Occupations, they be perſonal, and of the profits doe ariſe meer perſonal tythes: touching therefore firſt their tythable place, it is anſwered in the Twelfth queſtion before. Of their tythable time, it is anſwered <hi>in fine anni, i.</hi> They be payable at the end of the year <note n="o" place="margin">Gloſſ. in c. revertimini. verb. ann us.</note>, and as our cuſtom is, at <hi>Eaſter.</hi> Of perſons that be chargable with theſe perſonal Tithes, it is anſwered of ſuch perſons, which of cuſtom have, or of right ought to have paid their perſonal Tithes <note n="p" place="margin">2. Ed. 6. 13</note>.
+<pb n="30" facs="tcp:107691:20"/> Look the Summaries of the Statutes enſuing. There are of theſe perſonal tithes (in divers caſes) <hi>Opinionum conflictus, i.</hi> Diverſities of opinions <note n="q" place="margin">Rebuff. q. 13 nu. 44. &amp; ibi. cit. But. in parochianos infin. eod. </note> but herein they agree, <hi>viz. Hae Decimae perſonales, magis in difficultate, &amp; ſubtilitate, quam utilitate conſiſtunt, i.</hi> They are theſe perſonal tithes, more intricate then profitable <note n="r" place="margin">Hoſt. in ca. paſtoralis in fin. eod. &amp; 10. detur. cre. in revertimini praeal. nu. 12. ver ad ſepti<g ref="char:EOLhyphen"/>mum. 16. q. 1. </note> one<g ref="char:EOLhyphen"/>ly this (to conclude) muſt bee noted, that is to ſay, all perſons (conſideration had as afore is ſaid) be bounden to offer their perſonal Tithes to the Church, but the Church is forbidden (of all perſons) to receive them <note n="ſ" place="margin">Hoſt in ca: ex tranſmiſta. eod. arg. ca. Oblationes. 90 diſt Deut. 3. </note> for example, The Harlot, the Robber, the Uſurer, &amp;c. they bee not exempted, but the Law rejecteth them, their perſonal tithes, and Oblations: <hi>Non inferas merce<g ref="char:EOLhyphen"/>dem meretricis, &amp;c. i.</hi> Thou ſhalt not bring the hire of an Whore, nor the price of a Dog into the Houſe of the LORD<note n="t" place="margin">e miror 17. q.4. </note> And for the other, <hi>quaeſtus fit ex peccato, i.</hi> Their gain ariſeth of ſin: the Church is therefore forbidden to receive of them, <hi>Ne ipſorum videatur appro<g ref="char:EOLhyphen"/>bare turpitudinem, i.</hi> Leaſt the Church ſhould ſeem to approve their Iniquities<note n="u" place="margin">c. ſi tantum 6. q 2. hec Rebuff q 5. nu. 18. 8. 19.</note>
+               </p>
+            </div>
+            <trailer>Here do end the queſtions of Tything, moved (in times paſt) and an<g ref="char:EOLhyphen"/>ſwered: and which be now urged (ordinarily) and decided at this day.</trailer>
+         </div>
+         <div type="legal_text">
+            <head>Of Compoſition, Tranſaction, Cuſtom, Preſcription, Priviledge: and how they prevail in Tything.</head>
+            <div type="part">
+               <head>Of Compoſition.</head>
+               <p>COmpoſition (by the Cannon lawes) holdeth or faileth diverſly reſpected: and it is firſt to be conſidered of as it hath been made &amp; had <hi>inter Clericos, i.</hi> Betwixt Clerks themſelves; and then it hath
+<pb n="31" facs="tcp:107691:20"/> tended either <hi>Transferendis decimis, i.</hi> To the tranſla<g ref="char:EOLhyphen"/>ting of Tithes from one Church to another: <hi>Vt quae uni Eccleſiae decimae debentur, alia recipiat, i.</hi> That one Church receive tithes which be due to another. And the compoſition herein holdeth <note n="a" place="margin">c. 2. d. tranſ c. dilecti. co.</note>, and the reaſon is, <hi>Non refert quae Eccleſia decimas habeat, modo Eccleſiae per<g ref="char:EOLhyphen"/>ſoluantur, i.</hi> It forceth not of Tithes (ſo the Church enjoyeth them) what Church receiveth them <note n="b" place="margin">c. 3. eod.</note>. Howbeit, the nature and kind of the Tythes thus tran<g ref="char:EOLhyphen"/>ſlated, muſt be conſidered, namely, whether they be perſonal or predial tithes; if they be perſonal, the compoſition that tranſlated them holdeth not, and the reaſon is, <hi>Ne occaſio tribuatur avagandi &amp; divina ex<g ref="char:EOLhyphen"/>tra parochiam audiendi, i.</hi> Leaſt occaſion ſhould be given to the people of wandring, and hearing of di<g ref="char:EOLhyphen"/>vine ſervice from their own pariſh Churches <note n="c" place="margin">c. 2. ſup. ti. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Rebuff in q. 13. nu. 17. de decim.</note>.</p>
+               <p n="2">2 If they be predial, the Compoſition holdeth, <hi>Inita cum authoritate Epiſcopi, i.</hi> The authority and ap<g ref="char:EOLhyphen"/>probation of the Biſhop of the dioceſſe thereunto had; which compoſition ſhall binde both the Clerk and his ſucceſſors <note n="d" place="margin">c. 2. &amp;c ve<g ref="char:EOLunhyphen"/>nieus. de tranſ</note>: otherwiſe without the Biſhops confirma<g ref="char:EOLhyphen"/>tion, it ſhall not onely binde the Clerk that yeel<g ref="char:EOLhyphen"/>ded thereunto, and not touch his ſucceſſours at all <note n="e" place="margin">c. veniens. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> praeal.</note>.</p>
+               <p n="3">3 Or the compoſition hath tended <hi>Remittendis de<g ref="char:EOLhyphen"/>cimis, i.</hi> To the remitting of Tithes, <hi>
+                     <g ref="char:V">Ʋ</g>t tota decima clerico remittatur,</hi> namely, That to a Clerk Tythes ſhould be intirely remitted, this compoſition holdeth not <note n="f" place="margin">Rebuff. q 1 nu. 27. de de<g ref="char:EOLunhyphen"/>cim.</note>, and the reaſon is, <hi>Decima omnino tolli non poteſt, i.</hi> Tithe may not wholly be taken away <note n="g" place="margin">q. nu. prae. Rebuff.</note>.</p>
+               <p n="4">4. Secondly, compoſition muſt be conſidered, as it hath been ſaid <hi>inter Laicos, &amp; Rectorem, i.</hi> Betwixt Lay<g ref="char:EOLhyphen"/>men and Clerks, which compoſition alſo muſt be re<g ref="char:EOLhyphen"/>ſpected thus, namely, whether it be <hi>De praeteritis decimis,</hi>
+                  <pb n="32" facs="tcp:107691:21"/> Of Tythes forepaſſed, or <hi>de futuris decimis, i.</hi> Of tithes to come. In the firſt caſe, this compoſition alſo hold<g ref="char:EOLhyphen"/>eth, yea though it be <hi>Gratuita, i.</hi> Without conſidera<g ref="char:EOLhyphen"/>tion or allowance at all <note n="h" place="margin">c. ſuper. de reb. eccle non alien.</note> In the ſecond caſe if the compoſition be, <hi>Vt Aliquas decimas non ſolvant, i.</hi> That tithes be not paid at all, <hi>Non eſt admittenda,</hi>
+                  <note n="i" place="margin">Rebuff. q. 13. praeal.</note> Not to be admitted <hi>i.</hi> If the compoſition be, <hi>Vt integra decima non ſolvatur, i.</hi> That tithe be not wholly paid, but in part, it holdeth: howbeit not otherwiſe but confirm<g ref="char:EOLhyphen"/>ed by authority ſupream: for the Biſhops confirmati<g ref="char:EOLhyphen"/>on herein ſufficeth not, for none could exempt from tithing, nor diminiſh the quantity of the ſame, but the Supream power <note n="k" place="margin">Text in ca<g ref="char:EOLhyphen"/>venerabilis de conſef, &amp; ibi Pan.</note>, as it followeth in Privi<g ref="char:EOLhyphen"/>ledge.</p>
+            </div>
+            <div type="part">
+               <head>Of Tranſaction.</head>
+               <p n="1">1 TRanſaction and compoſition doe differ in this, the one is <hi>Gratuita conventio, i.</hi> A voluntary, franck and free agreement of things not conte<g ref="char:cmbAbbrStroke">̄</g>ded for, which is ſaid to be compoſition: the other, <hi>De re dubia &amp; lite incerta (aliquo dato vel retento) pactio, i.</hi> A forced covenant or agreement (for ſomewhat given or received) of things litigious, incertain, and doubtful in controverſie <note n="l" place="margin">1. fi. de tranſ. C. e. c. ſuper eo.</note>.</p>
+               <p n="2">2 It muſt be conſidered of Tranſaction as before it hath been ſaid of compoſition betwixt Lay-men and Clerks. Look compoſition four. Tranſaction (if it be of tithes forepaſſed) holdeth; yea though the conſideration had, be of things meer temporal: and the reaſon is <hi>Fructus decimarum ſunt temporales, i.</hi> The profit and fruits of tithes be reputed temporal <note n="m" place="margin">c. veſtra. de loca.</note>. Tranſaction, if it be of tithes to come, muſt be re<g ref="char:EOLhyphen"/>ſpected
+<pb n="33" facs="tcp:107691:21"/> according to the time and term it is made for, namely, whether it be made <hi>in tempus modicum, i.</hi> For a ſhort and limitted time, or <hi>in perpetuum, i.</hi> (without limitation) for ever, In the firſt caſe it holdeth with the Biſhops approbation and authority <note n="n" place="margin">Arg. c: 2. &amp; 3. ſup. de iis quae fiunta capit.</note> in the other caſe it holdeth alſo if the right and intereſt of the Church be doubtful, as where the Pariſhoner pleadeth againſt the Church, Exemption or Priviledge. But where the right of the Church is <hi>Liquidum, i.</hi> Where the Churches right is clear, Tranſaction holdeth not otherwiſe then by conſent and authority ſupream <note n="o" place="margin">Not. ca. a nobis eod. Pan. c, ſtatui<g ref="char:EOLhyphen"/>mus de tranſ.</note>. Tranſaction is often taken for compoſition, and one for another <note n="p" place="margin">c. venien. e.</note>.</p>
+            </div>
+            <div type="part">
+               <head>Of Cuſtome.</head>
+               <p n="1">1 CUſtome by the Canon Lawes holdeth or fail<g ref="char:EOLhyphen"/>eth, diverſly reſpected: if it be <hi>De transfe<g ref="char:EOLhyphen"/>rendis decimis predialibus, i.</hi> Of tranſlating of tyths predial (as afore hath been ſpo<g ref="char:EOLhyphen"/>ken in compoſition) it holdeth <note n="q" place="margin">c cum ſine homines. &amp; c, ad apoſtolice. eod.</note>.</p>
+               <p n="2">2 If of perſonal tithes, as alſo before hath been ſaid in compoſition, it holdeth not <note n="r" place="margin">c. praeal.</note>.</p>
+               <p n="3">3 Cuſtome <hi>De non ſolvendis decimis, i.</hi> Of not yeeld<g ref="char:EOLhyphen"/>ing of Tythes at all, holdeth not, and the reaſon is: <hi>Juri naturae &amp; divino contraria eſt, i.</hi> Such a cuſtome is contrary both to the Law of Nature, and the Law of GOD <note n="ſ" place="margin">DD. id c. fi. de conſuetud.</note>.</p>
+               <p n="4">4 Cuſtome <hi>De minori quantitatate ſolvenda, i.</hi> Of yeelding leſſe than the tenth in quantity, holdeth <hi>in Perſonalibus, i.</hi> In perſonal tithes only after the opi<g ref="char:EOLhyphen"/>nions of ſome <note n="t" place="margin">c. in aliqui<g ref="char:EOLhyphen"/>bus. &amp; ibi inno pan &amp; alii. eod.</note>, but of others in predial alſo <note n="u" place="margin">Rebuff. q. 13. na 46.</note>; and practiſe alſo ſheweth the ſame.</p>
+               <pb n="34" facs="tcp:107691:22"/>
+               <p n="5">5 Cuſtome <hi>De loco, i.</hi> Of place where Tythes ought to be left, holdeth <note n="x" place="margin">Hoſt in ſum <hi>Sect.</hi> ſin eod.</note>.</p>
+               <p n="6">6 Cuſtome <hi>De tempore, i.</hi> Of the time of Tythes to be yeelded, holdeth <note n="y" place="margin">DD in c. ad apoſtolice praeal.</note>.</p>
+               <p n="7">7 Cuſtome <hi>De modo, i.</hi> Of the manner and form of yeelding of Tythes, holdeth <note n="z" place="margin">Rebuff. q. 13. praeal nu. 40. 50. 52.</note>.</p>
+            </div>
+            <div type="part">
+               <head>Tythe what it is, and of how many ſorts.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>Ythe of the Latine,</hi> Decima, <hi>is a tenth part or portion of increaſe, commanded unto</hi> Moſes <hi>by whom it was delivered (at the ap<g ref="char:EOLhyphen"/>pointment of</hi> God) <hi>to bee paid to the ſons of</hi> Levi, <hi>for their miniſtery wherein they ſerved in the Tabernacle</hi> 
+                  <note n="a" place="margin">Nu. c. 18.</note>: <hi>in Law defined thus; viz.</hi> Omnium honorum licite quaeſitorum quota pars Deo, divina conſtitutione debita, <hi>i. Of all lawful increaſe and gain a certain part (by conſtitution divine) due, and appertaining to God</hi> 
+                  <note n="b" place="margin">Card. conſil 26. pro evi<g ref="char:EOLhyphen"/>dentia. c. tua <hi>c,</hi> ſin eod.</note>. <hi>And they be either predi<g ref="char:EOLhyphen"/>al, as that which doth ariſe and grow by reaſon and vertue of the grounds, viz. Fruits, and increaſe of Beasts, Fiſhes, Fowles</hi> 
+                  <note n="c" place="margin">c. pervenit. praeal. eo c. non eſt. 22. c.</note>, <hi>&amp;c. Or they be perſonal, as that which ariſeth by reaſon and vertue of lawful and honeſt commoditie, ſo recovered and procured by art, ſcience, or manual Occupa<g ref="char:EOLhyphen"/>tion of ſome perſon</hi> 
+                  <note n="d" place="margin">c. ad apoſto<g ref="char:EOLhyphen"/>lice. prae.</note>. <hi>It is alſo to be noted, that tithes, ſome of them comprehended under theſe titles, Prae<g ref="char:EOLhyphen"/>dial and perſonal, be called be the name of mixt tythes, of which ſort be ſuch as do riſe and grow partly by the grounds</hi> 
+                  <note n="e" place="margin">ca. commiſ<g ref="char:EOLhyphen"/>ſum praeal.</note>, <hi>and partly by the care, keeping, labour, and in<g ref="char:EOLhyphen"/>duſtry of ſome perſon</hi> 
+                  <note n="f" place="margin">c. apoſtolice. e paſtoralis. eod:</note>; <hi>as of Cattel ſubject to the Fox, Woolfe, and ſuch devouring beaſts, ſuppoſed to be partly of the grounds where they be bred and fed</hi> 
+                  <note n="g" place="margin">l. cum qui<g ref="char:EOLhyphen"/>dam ff de fun. inſtruct.</note>, <hi>even as a tree is
+<pb n="35" facs="tcp:107691:22"/> ſuppoſed to be alſo partly of that place where the roots do grow, by the which it is nouriſhed</hi> 
+                  <note n="h" place="margin">l. ſi plures, in ſin. ff arb. furt. caeſ.</note>: <hi>ſo they be maintained by the grounds, but defended by the ſhepherds. Look more of mixt tithes in the twelfe queſtion. Some of them by the name of greater Tythes, In Latine</hi> Majores ſive groſſae decimae (<hi>as we term them) Great tythes: ſuch be of Corn and Pulſe</hi> 
+                  <note n="i" place="margin">c. ex multi<g ref="char:EOLhyphen"/>plici de dec.</note>. <hi>Some of them be termed</hi> Minores <hi>or</hi> Mi<g ref="char:EOLhyphen"/>nutae decimae (<hi>in our common ſpeech) Small tithes, ſuch be ſeeds, Hearbs; Egges</hi> 
+                  <note n="k" place="margin">Glo. &amp; DD. in c. cum ex tua. &amp;c. ex multiplici. praeal. eod.</note>, <hi>&amp;c. mentioned in the ninth and fourteenth queſtions,</hi> 1.</p>
+            </div>
+            <div type="part">
+               <head>Of Preſcription.</head>
+               <p>PReſcription is not much differing from cuſtome, as before is ſpecified of Tranſaction and com<g ref="char:EOLhyphen"/>poſion: but the one oftentimes is taken for the other <note n="a" place="margin">Dom. ca. 2. col. ult de preb. in 6. barb. conſil. 35. ſapientur. col. 6. in 2. vol.</note>. Howbeit herein they differ, <hi>Conſue<g ref="char:EOLhyphen"/>tudo proprie dicitur quando jus acquiritur in communi et publico, i.</hi> It is properly ſaid to be cuſtome where a right to many is procured in common and publike. <hi>Praeſcriptio vero quando privato, i.</hi> Preſcription when pri<g ref="char:EOLhyphen"/>vately to one <note n="b" place="margin">Pan. in ca. cum eccleſia. col. 8. nu. 45. de cauſ. poſ.</note>.</p>
+            </div>
+            <div type="part">
+               <head>Of Priviledge.</head>
+               <p>PRIVILEDGE or exemption is derived from authori<g ref="char:EOLhyphen"/>ty ſupream, by the which <hi>ex juſta cauſa, i.</hi> upon cauſe and good conſideration, ſometimes the per<g ref="char:EOLhyphen"/>ſons themſelves, as the order called <hi>Ciſtercienſes,</hi> and other Religious perſons were priviledged and exempt<g ref="char:EOLhyphen"/>ed from tithes <note n="c" place="margin">c. a nobis de decim.</note>; ſometimes the places, as grounds be<g ref="char:EOLhyphen"/>longing
+<pb n="36" facs="tcp:107691:23"/> to Religions perſons <note n="d" place="margin">c. ex parte eod.</note>. For example, Mona<g ref="char:EOLhyphen"/>ſteries, Priories, Nunries, Colledges, &amp;c. or other Eccleſiaſtical houſes, &amp;c. or any Manors, Meſuages, Parſonages appropriate, &amp;c. or other Hereditaments which belonged unto the ſaid Monaſteries, Priories, &amp;c. which were diſcharged of and for the payment of Tythes, being in the hands of Abbots, Priors, or other Eccleſiaſtical Governors. Concerning theſe poſ<g ref="char:EOLhyphen"/>ſeſſions in religious perſons, there hath been five ſeve<g ref="char:EOLhyphen"/>ral times obſerved <note n="e" place="margin">Rebuff. q: 14. nu. 37, 38, 39, 40, 42.</note>: but leaving thoſe times I referre the readers onely to the ſtatute <hi>viz.</hi> Theſe Monaſte<g ref="char:EOLhyphen"/>ries, &amp;c. and every perſon and perſons, their Heirs and Aſſignes, having &amp;c. ſhall be according to their e<g ref="char:EOLhyphen"/>ſtates and titles diſcharged of payment of tythes, in as ample manner as any of the ſaid Abbots, &amp;c. at the daies of their diſſolution. 31. <hi>H.</hi> 8. 13.</p>
+            </div>
+            <div type="part">
+               <head>Summaries of the Statutes of Tything.</head>
+               <p>EVery of the kings ſubjects ſhall truly and juſtly without fraud or guile divide, ſet out, yeeld and pay all manner of their predial tithes, in their proper kind, as they riſe and happen in ſuch manner and form as hath been of right yeelded and paid within fourty years before the making of this Act (being 4. <hi>November Anno</hi> 1548) or of right or cu<g ref="char:EOLhyphen"/>ſtome ought to have been paid. And no perſon ſhall take or carry away any ſuch or like tithes, &amp;c. before he hath juſtly ſet forth for the tythe thereof the tenth part of the ſame, or otherwiſe agreed for the ſame Tythes with the Parſon, &amp;c. under the pain of forfei<g ref="char:EOLhyphen"/>ture of treble value of the Tithes ſo taken or carried away, 2. <hi>Ed.</hi> 6. 13.</p>
+               <pb n="37" facs="tcp:107691:23"/>
+               <p>At all times whenſoever the ſaid praedial tithes ſhall be due at the tything time of the ſame, it ſhall be law<g ref="char:EOLhyphen"/>full to every party to whom any of them ought to be paid, or his deputy or ſervant to ſee their ſaid tithe to be truly ſet forth, and ſevered from the nine parts, and the ſame quietly to take and carry away, 2. <hi>Ed.</hi> 6. 13.</p>
+               <p>If any perſon carry away his corne or hay, or his other praedial tithes, before tithe thereof be ſet forth, or willingly withdraw his tithes of the ſame, or of<note place="margin">Double value of the tenth beſides coſts.</note> ſuch other things whereof predial tithes ought to be paid, or do ſtop or let the Parſon, Vicar, &amp;c. or other their deputies, to view, take and carry away their tithes, by reaſon whereof their ſaid tithe or tenth is loſt or hurt: then upon due proof thereof, &amp;c. the party ſo carrying away, &amp;c. ſhall pay the double value of the tenth, &amp;c. beſides the coſts, charges and expences of the ſuit in the ſame, &amp;c. to be recovered before the Eccleſiaſtical Judge, according to the Kings Eccleſia<g ref="char:EOLhyphen"/>ſtical Lawes, 2. <hi>Ed.</hi> 6. 13.</p>
+               <p>Every perſon which ſhall have any beaſts or other cattel tithable, going or feeding in any waſte or com<g ref="char:EOLhyphen"/>mon<note place="margin">Waſt ground not certainly known of what pariſh.</note> ground, wherof the pariſh is not certainly known, ſhall pay his tithes for the increaſe of the ſaid cattel, to the parſon, Vicar, &amp;c. of the pariſh, Hamlet, Town, or other place where the owner of the ſaid cattel dwelleth, 2 <hi>Ed.</hi> 6. 13.</p>
+               <p>All ſuch barren heath and waſt ground, &amp;c. which before this time hath been barren and paid no tithes, by reaſon of ſuch barrenneſs, and ſhall<note place="margin">Waſt ground improved that never paid tythe.</note> be improved and converted into arable ground or Meddow, ſhall after the end of ſeven years next after ſuch improvement, pay tithe for the corn and Hay growing upon the ſame. But if ſuch barren, &amp;c.
+<pb facs="tcp:107691:24"/> &amp;c. hath before, &amp;c. been charged with the payment<note place="margin">Waſt ground improved that paid tithe before.</note> of any tythes, and the ſame be after improved, and converted into arable ground or meddow, then the owner thereof ſhall, during ſeven years next following from and after the ſame improvement, pay ſuch kind of tithe as was paid for the ſame before the ſame im<g ref="char:EOLhyphen"/>provement, 2. <hi>Ed.</hi> 6. 13.</p>
+               <p>Great wood of the age of twenty years or of great<g ref="char:EOLhyphen"/>er<note place="margin">Silva Caedua.</note> age ſold to marchants to their own profit, or in aid of the King in his Warres, is not Tithable nor comprehended under this word <hi>Silva Caedua, 45. Ed.</hi> 3. 3.</p>
+               <p>Every perſon exerciſing marchandiſe, bargayning<note place="margin">Perſonal tithes.</note> and ſelling, &amp;c. or other art or faculty, being ſuch kind of perſons and in ſuch places as heretofore with<g ref="char:EOLhyphen"/>in theſe forty years have accuſtomably uſed to pay ſuch perſonal tithes, or of right ought to pay (other than ſuch as be common day-labourers) ſhall yearly, &amp;c. pay for his parſonall Tithes, the tenth part of his clear gaines, his charges and expences, &amp;c. deducted. But in all ſuch places where handicrafts men have uſed to pay their tithes, &amp;c. the ſame cuſtome of payment of tithes ſhall be obſerved and continued, 2. <hi>Ed.</hi> 6. 13.<note place="margin">Offerings.</note>
+               </p>
+               <p>Every perſon which ought to pay offerings, ſhall (yeerly) truly pay them to the Parſon, Vicar, &amp;c. at ſuch four offering dayes, &amp;c. as have been accuſto<g ref="char:EOLhyphen"/>med for the payment of the ſame; and in default there<g ref="char:EOLhyphen"/>of to pay for the ſaid offerings at <hi>Eaſter</hi> then next fol<g ref="char:EOLhyphen"/>lowing, 2. <hi>Ed.</hi> 6. 13.</p>
+               <p>No tithes of marriage goods ſhall be required of any<note place="margin">Wales.</note> perſon within <hi>Wales,</hi> or the marches thereof. Neither ſhal any perſon be compelled to pay tithe for the lands or hereditaments, which by the laws and ſtatutes of
+<pb n="39" facs="tcp:107691:24"/> this realm, or by any Priviledge, or Preſcription, are not chargeable with the payment thereof: or that be diſcharged by compoſition real, 2. <hi>Ed.</hi> 6. 13.<note place="margin">Obſtinacie.</note>
+               </p>
+               <p>If any perſon after ſentence definitive given againſt him, obſtinately refuſe to pay his tithes, or ſhall other<g ref="char:EOLhyphen"/>wiſe contemn and diſobey the proceſſe and decrees of the <hi>Eccleſiaſtical</hi> Courts, &amp;c. then upon information<note place="margin">Contempt.</note> given, &amp;c. the ſame party ſhall be committed to ward, &amp;c. 27. <hi>H.</hi> 8. 20. Look the ſtatute in all.</p>
+               <p>If any of the parties doe appeal, &amp;c. then the<note place="margin">Appeales.</note> judge forthwith ſhall adjudge to the other party the reaſonable coſts of his ſuit therein before expended, and take ſurety of the other party, &amp;c. to what effect, ſee the ſtatute in all, 32. <hi>H.</hi> 8. 7.</p>
+               <p>If any party, &amp;c. do ſue for any prohibition, &amp;c. un<g ref="char:EOLhyphen"/>der<note place="margin">Prohibition</note> the coppy of the Libel ſhall be written the ſugge<g ref="char:EOLhyphen"/>ſtion, wherefore the party ſo demandeth the ſaid pro<g ref="char:EOLhyphen"/>hibition: and in caſe the ſaid ſuggeſtion by two ho<g ref="char:EOLhyphen"/>neſt and ſufficient witneſſes at the leaſt, be not proved true in the court where the ſaid prohibion ſhal be ſo granted, within ſix moneths next following, &amp;c. Then the party that is hindred of his ſuit in the <hi>Eccleſi<g ref="char:EOLhyphen"/>aſtical</hi> court by ſuch prohibion, &amp;c. ſhall have a conſul<g ref="char:EOLhyphen"/>tation granted, &amp;c. and ſhall alſo recover double coſts<note place="margin">Conſultation</note> and dammages, 2. <hi>Ed.</hi> 6. 13. And the Judges before whom the cauſe was firſt brought in queſtion, ſhall proceed notwithſtanding the Kings Prohibition, 24. <hi>Ed.</hi> 1.</p>
+            </div>
+            <trailer>
+               <hi>Theſe be Summarily (Chriſtian Reader) the ſpiritual and ſtatute Lawes of the Land for</hi> Tything: <hi>this is the work, take it in good part: the title but begun, may better be ſa<g ref="char:EOLhyphen"/>tisfied hereafter.</hi>
+            </trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
